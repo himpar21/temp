@@ -1,0 +1,2 @@
+"""Confluence ingestion connector."""
+

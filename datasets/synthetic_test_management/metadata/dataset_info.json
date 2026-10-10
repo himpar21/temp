@@ -1,0 +1,48 @@
+{
+  "dataset_name": "Synthetic Test Management Dataset",
+  "version": "1.0.0",
+  "created_date": "2024-09-26",
+  "seed": 42,
+  "purpose": "Synthetic enterprise test-management dataset for AI-powered Hybrid RAG pipeline research and evaluation.",
+  "disclaimer": "All data is entirely synthetic. No real Samsung internal data, employee names, credentials, URLs, or confidential information is included.",
+  "rag_support": ["Vanilla RAG", "Graph RAG", "Hybrid RAG"],
+  "domain": "Enterprise Software Quality Assurance",
+  "applications": 12,
+  "solutions": 25,
+  "environments": 10,
+  "releases": 8,
+  "engineers": 100,
+  "requirements": 520,
+  "test_suites": 110,
+  "test_cases": 2100,
+  "test_steps": 9496,
+  "test_runs": 12,
+  "test_executions": 5200,
+  "execution_steps": 13481,
+  "failures": 1100,
+  "defects": 520,
+  "assignments": 2100,
+  "historical_failures": 2100,
+  "graph_nodes": 9717,
+  "graph_relationships": 24657,
+  "unstructured_documents": 238,
+  "evaluation_queries": {
+    "total": 300,
+    "semantic": 100,
+    "graph": 100,
+    "hybrid": 100
+  },
+  "scalability": {
+    "current_scale": "demo/evaluation",
+    "supported_scales": ["10K test cases", "50K test cases", "85K test cases"],
+    "scale_by": "Modify NUM_TEST_CASES and related constants in generate_dataset.py"
+  },
+  "files": {
+    "structured": "datasets/synthetic_test_management/structured/",
+    "graph": "datasets/synthetic_test_management/graph/",
+    "unstructured": "datasets/synthetic_test_management/unstructured/",
+    "evaluation": "datasets/synthetic_test_management/evaluation/",
+    "scripts": "datasets/synthetic_test_management/scripts/",
+    "metadata": "datasets/synthetic_test_management/metadata/"
+  }
+}

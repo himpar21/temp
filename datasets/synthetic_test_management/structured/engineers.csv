@@ -1,0 +1,101 @@
+engineer_id,name,role,team,email,active,joined_date
+ENG-001,Zach Nelson,Automation Engineer,Mobile QA,eng001@synthetic-qa.dev,true,2021-09-11
+ENG-002,Nina Lee,DevOps Engineer,Release QA,eng002@synthetic-qa.dev,false,2022-11-05
+ENG-003,Xavier Brown,Senior QA Engineer,SmartHome QA,eng003@synthetic-qa.dev,false,2022-01-31
+ENG-004,Kevin Zhang,Senior QA Engineer,Platform QA,eng004@synthetic-qa.dev,true,2019-01-25
+ENG-005,Rachel Ortega,Test Lead,Release QA,eng005@synthetic-qa.dev,true,2019-07-25
+ENG-006,Oscar Harris,Senior QA Engineer,XR QA,eng006@synthetic-qa.dev,true,2018-04-14
+ENG-007,Uma Rivera,QA Engineer,Mobile QA,eng007@synthetic-qa.dev,true,2018-12-07
+ENG-008,Nina Park,Test Architect,Platform QA,eng008@synthetic-qa.dev,false,2023-01-23
+ENG-009,Brenda Foster,DevOps Engineer,SmartHome QA,eng009@synthetic-qa.dev,false,2019-06-28
+ENG-010,David Zhang,Test Architect,Performance QA,eng010@synthetic-qa.dev,false,2021-11-27
+ENG-011,Xavier Zhang,Test Architect,Security QA,eng011@synthetic-qa.dev,true,2019-08-31
+ENG-012,George Brown,QA Engineer,Automation QA,eng012@synthetic-qa.dev,true,2018-04-13
+ENG-013,Samuel Park,Test Lead,SmartHome QA,eng013@synthetic-qa.dev,true,2022-10-10
+ENG-014,Fiona Chen,Senior QA Engineer,Platform QA,eng014@synthetic-qa.dev,false,2018-09-03
+ENG-015,Clara Singh,Automation Engineer,SmartHome QA,eng015@synthetic-qa.dev,true,2020-05-08
+ENG-016,Victor Singh,Security Tester,Performance QA,eng016@synthetic-qa.dev,true,2021-10-03
+ENG-017,Wendy Kim,Automation Engineer,Performance QA,eng017@synthetic-qa.dev,false,2018-09-26
+ENG-018,Victor Ueda,Performance Engineer,XR QA,eng018@synthetic-qa.dev,true,2023-03-18
+ENG-019,Yara Schmidt,Senior QA Engineer,SmartHome QA,eng019@synthetic-qa.dev,false,2021-06-26
+ENG-020,Samuel Davis,Senior QA Engineer,Platform QA,eng020@synthetic-qa.dev,true,2018-09-29
+ENG-021,David Lee,Senior QA Engineer,Platform QA,eng021@synthetic-qa.dev,true,2019-08-07
+ENG-022,Fiona Ortega,Performance Engineer,SmartHome QA,eng022@synthetic-qa.dev,true,2023-03-24
+ENG-023,Victor Davis,Test Lead,Performance QA,eng023@synthetic-qa.dev,true,2022-12-28
+ENG-024,Diana Xavier,Test Lead,Performance QA,eng024@synthetic-qa.dev,true,2021-05-23
+ENG-025,George Wang,Security Tester,Platform QA,eng025@synthetic-qa.dev,true,2020-11-01
+ENG-026,Paula Ibrahim,QA Engineer,Mobile QA,eng026@synthetic-qa.dev,false,2022-08-26
+ENG-027,Ivan Brown,QA Engineer,Automation QA,eng027@synthetic-qa.dev,true,2021-07-28
+ENG-028,Ivan Foster,Test Architect,Release QA,eng028@synthetic-qa.dev,true,2018-08-18
+ENG-029,Carlos Rossi,Test Lead,SmartHome QA,eng029@synthetic-qa.dev,true,2021-04-07
+ENG-030,Rachel Evans,DevOps Engineer,Security QA,eng030@synthetic-qa.dev,true,2019-09-24
+ENG-031,Laura Rossi,QA Engineer,Automation QA,eng031@synthetic-qa.dev,true,2021-10-28
+ENG-032,Helen Vargas,Senior QA Engineer,Automation QA,eng032@synthetic-qa.dev,false,2021-06-25
+ENG-033,Xavier Evans,Automation Engineer,Security QA,eng033@synthetic-qa.dev,true,2022-12-11
+ENG-034,Nina Anderson,Test Lead,Automation QA,eng034@synthetic-qa.dev,false,2022-07-01
+ENG-035,Victor Patel,Automation Engineer,Performance QA,eng035@synthetic-qa.dev,true,2022-06-01
+ENG-036,Wendy Davis,DevOps Engineer,SmartHome QA,eng036@synthetic-qa.dev,false,2019-04-01
+ENG-037,George Okonkwo,Test Architect,Automation QA,eng037@synthetic-qa.dev,true,2022-08-08
+ENG-038,Zach Patel,Automation Engineer,Platform QA,eng038@synthetic-qa.dev,true,2021-09-13
+ENG-039,George Martinez,Security Tester,Performance QA,eng039@synthetic-qa.dev,true,2022-05-03
+ENG-040,Ivan Lee,DevOps Engineer,Automation QA,eng040@synthetic-qa.dev,true,2018-08-25
+ENG-041,Clara Ibrahim,Test Lead,Performance QA,eng041@synthetic-qa.dev,true,2018-08-11
+ENG-042,Tara Nelson,Security Tester,Automation QA,eng042@synthetic-qa.dev,false,2021-05-26
+ENG-043,Quinn Davis,DevOps Engineer,Platform QA,eng043@synthetic-qa.dev,true,2018-04-01
+ENG-044,Wendy Nelson,QA Engineer,Platform QA,eng044@synthetic-qa.dev,true,2020-06-02
+ENG-045,Carlos Vargas,Security Tester,Automation QA,eng045@synthetic-qa.dev,true,2022-01-14
+ENG-046,Clara Johnson,Performance Engineer,Release QA,eng046@synthetic-qa.dev,true,2020-04-04
+ENG-047,Wendy Johnson,Test Lead,Platform QA,eng047@synthetic-qa.dev,false,2021-09-23
+ENG-048,Michael Vargas,Test Lead,Performance QA,eng048@synthetic-qa.dev,false,2021-01-27
+ENG-049,Amara Anderson,Performance Engineer,Performance QA,eng049@synthetic-qa.dev,true,2020-05-30
+ENG-050,Zach Singh,Security Tester,XR QA,eng050@synthetic-qa.dev,false,2020-06-24
+ENG-051,Victor Garcia,Test Architect,Security QA,eng051@synthetic-qa.dev,true,2019-08-05
+ENG-052,Quinn Vargas,Security Tester,Mobile QA,eng052@synthetic-qa.dev,true,2021-10-09
+ENG-053,Julia Harris,Automation Engineer,Security QA,eng053@synthetic-qa.dev,true,2018-04-05
+ENG-054,Helen Park,Senior QA Engineer,XR QA,eng054@synthetic-qa.dev,false,2022-12-20
+ENG-055,Uma Singh,Automation Engineer,Release QA,eng055@synthetic-qa.dev,false,2020-03-29
+ENG-056,Helen Evans,QA Engineer,Mobile QA,eng056@synthetic-qa.dev,false,2019-03-25
+ENG-057,Fiona Zhang,Test Architect,SmartHome QA,eng057@synthetic-qa.dev,true,2023-02-22
+ENG-058,Ben Davis,Test Architect,Security QA,eng058@synthetic-qa.dev,false,2021-09-29
+ENG-059,Quinn Rivera,Security Tester,XR QA,eng059@synthetic-qa.dev,false,2022-08-29
+ENG-060,David Rivera,Test Architect,Security QA,eng060@synthetic-qa.dev,false,2020-07-10
+ENG-061,Ivan Yamamoto,Automation Engineer,Performance QA,eng061@synthetic-qa.dev,false,2021-07-07
+ENG-062,Helen Ibrahim,Test Architect,Mobile QA,eng062@synthetic-qa.dev,true,2019-04-26
+ENG-063,Ivan Kim,Security Tester,Mobile QA,eng063@synthetic-qa.dev,true,2018-11-05
+ENG-064,Helen Martinez,Test Lead,Platform QA,eng064@synthetic-qa.dev,true,2020-04-29
+ENG-065,Nina Kim,Test Architect,Release QA,eng065@synthetic-qa.dev,true,2019-02-28
+ENG-066,Amara Nelson,DevOps Engineer,SmartHome QA,eng066@synthetic-qa.dev,false,2020-09-03
+ENG-067,Aiden Lee,Performance Engineer,Release QA,eng067@synthetic-qa.dev,false,2021-01-07
+ENG-068,Xavier Xavier,Automation Engineer,XR QA,eng068@synthetic-qa.dev,true,2019-07-13
+ENG-069,Aiden Martinez,Security Tester,Release QA,eng069@synthetic-qa.dev,true,2022-09-18
+ENG-070,Oscar Schmidt,Test Lead,SmartHome QA,eng070@synthetic-qa.dev,false,2021-04-27
+ENG-071,Samuel Vargas,QA Engineer,Mobile QA,eng071@synthetic-qa.dev,false,2018-10-05
+ENG-072,Ben Ortega,Test Lead,SmartHome QA,eng072@synthetic-qa.dev,true,2020-02-16
+ENG-073,Kevin Garcia,Test Architect,Automation QA,eng073@synthetic-qa.dev,true,2022-04-08
+ENG-074,Clara Martinez,Performance Engineer,Release QA,eng074@synthetic-qa.dev,true,2022-09-06
+ENG-075,Carlos Park,QA Engineer,SmartHome QA,eng075@synthetic-qa.dev,true,2019-04-05
+ENG-076,Uma Chen,QA Engineer,SmartHome QA,eng076@synthetic-qa.dev,true,2019-02-13
+ENG-077,Tara Evans,Automation Engineer,Security QA,eng077@synthetic-qa.dev,false,2021-10-03
+ENG-078,Diana Singh,Automation Engineer,XR QA,eng078@synthetic-qa.dev,true,2022-04-20
+ENG-079,Laura Foster,Senior QA Engineer,Security QA,eng079@synthetic-qa.dev,true,2018-08-10
+ENG-080,Samuel Anderson,Performance Engineer,Release QA,eng080@synthetic-qa.dev,false,2023-04-13
+ENG-081,Wendy Garcia,Senior QA Engineer,Platform QA,eng081@synthetic-qa.dev,true,2021-11-28
+ENG-082,Yara Johnson,Senior QA Engineer,SmartHome QA,eng082@synthetic-qa.dev,true,2020-12-27
+ENG-083,Nina Vargas,Security Tester,Mobile QA,eng083@synthetic-qa.dev,true,2018-01-26
+ENG-084,Ben Nelson,Test Architect,Mobile QA,eng084@synthetic-qa.dev,false,2023-05-22
+ENG-085,Laura Ueda,Test Architect,Security QA,eng085@synthetic-qa.dev,false,2018-12-27
+ENG-086,Xavier Quinn,Performance Engineer,XR QA,eng086@synthetic-qa.dev,false,2020-06-11
+ENG-087,Amara Xavier,Performance Engineer,Automation QA,eng087@synthetic-qa.dev,true,2022-08-29
+ENG-088,David Chen,Performance Engineer,XR QA,eng088@synthetic-qa.dev,true,2022-03-17
+ENG-089,Oscar Singh,DevOps Engineer,Automation QA,eng089@synthetic-qa.dev,true,2020-10-09
+ENG-090,Ben Kim,Test Lead,XR QA,eng090@synthetic-qa.dev,true,2019-12-28
+ENG-091,Zach Ibrahim,Security Tester,Performance QA,eng091@synthetic-qa.dev,true,2021-02-12
+ENG-092,Aiden Quinn,Automation Engineer,Mobile QA,eng092@synthetic-qa.dev,true,2022-01-14
+ENG-093,Rachel Yamamoto,Automation Engineer,XR QA,eng093@synthetic-qa.dev,false,2020-07-06
+ENG-094,Zach Anderson,Senior QA Engineer,Performance QA,eng094@synthetic-qa.dev,true,2020-04-08
+ENG-095,Wendy Harris,Performance Engineer,Automation QA,eng095@synthetic-qa.dev,false,2021-02-07
+ENG-096,Quinn Lee,DevOps Engineer,Automation QA,eng096@synthetic-qa.dev,true,2021-12-10
+ENG-097,Oscar Ibrahim,Performance Engineer,Performance QA,eng097@synthetic-qa.dev,true,2018-09-05
+ENG-098,Xavier Garcia,Security Tester,Mobile QA,eng098@synthetic-qa.dev,true,2019-01-28
+ENG-099,George Xavier,Test Architect,Performance QA,eng099@synthetic-qa.dev,true,2018-07-25
+ENG-100,Amara Garcia,Performance Engineer,Platform QA,eng100@synthetic-qa.dev,true,2019-01-03

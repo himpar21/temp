@@ -1,0 +1,58 @@
+{
+  "seed": 42,
+  "num_applications": 12,
+  "num_solutions": 25,
+  "num_environments": 10,
+  "num_releases": 8,
+  "num_requirements": 520,
+  "num_test_suites": 110,
+  "num_test_cases": 2100,
+  "num_test_runs": 12,
+  "num_test_executions": 5200,
+  "num_failures": 1100,
+  "num_defects": 520,
+  "num_engineers": 100,
+  "num_assignments": 2100,
+  "num_historical_failures": 2100,
+  "num_evaluation_queries": 300,
+  "num_unstructured_docs": 238,
+  "execution_status_weights": {
+    "PASS": 55,
+    "FAIL": 20,
+    "BLOCKED": 10,
+    "SKIPPED": 8,
+    "NOT_RUN": 7
+  },
+  "date_range": {
+    "start": "2021-01-01",
+    "end": "2024-12-31"
+  },
+  "scale_presets": {
+    "demo": {
+      "num_test_cases": 2100,
+      "num_test_executions": 5200,
+      "num_failures": 1100
+    },
+    "medium": {
+      "num_test_cases": 10000,
+      "num_test_executions": 25000,
+      "num_failures": 5000
+    },
+    "large": {
+      "num_test_cases": 50000,
+      "num_test_executions": 125000,
+      "num_failures": 25000
+    },
+    "xlarge": {
+      "num_test_cases": 85000,
+      "num_test_executions": 200000,
+      "num_failures": 40000
+    }
+  },
+  "generator_scripts": [
+    "datasets/synthetic_test_management/scripts/generate_dataset.py",
+    "datasets/synthetic_test_management/scripts/generate_documents.py",
+    "datasets/synthetic_test_management/scripts/generate_evaluation.py",
+    "datasets/synthetic_test_management/scripts/validate_dataset.py"
+  ]
+}

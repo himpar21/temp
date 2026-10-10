@@ -1,0 +1,111 @@
+suite_id,application_id,release_id,name,description,suite_type,priority,created_date,status
+TS-0001,APP-002,REL-003,APP-002 — Regression Suite 1,Suite covering Health API scenarios for APP-002.,Regression,Low,2022-10-06,Archived
+TS-0002,APP-002,REL-006,APP-002 — Regression Suite 2,Suite covering Configuration Service scenarios for APP-002.,Smoke,Low,2023-10-10,Active
+TS-0003,APP-001,REL-001,APP-001 — Full Suite 3,Suite covering Authentication scenarios for APP-001.,Integration,Critical,2022-09-08,Active
+TS-0004,APP-009,REL-001,APP-009 — Performance Suite 4,Suite covering Encryption Module scenarios for APP-009.,Security,Medium,2023-10-11,Draft
+TS-0005,APP-006,REL-007,APP-006 — Full Suite 5,Suite covering Rendering Engine scenarios for APP-006.,Integration,Medium,2023-04-19,Active
+TS-0006,APP-006,REL-007,APP-006 — Performance Suite 6,Suite covering Encryption Module scenarios for APP-006.,Regression,Medium,2023-05-05,Active
+TS-0007,APP-001,REL-008,APP-001 — Integration Suite 7,Suite covering Voice Pipeline scenarios for APP-001.,Integration,High,2022-06-27,Active
+TS-0008,APP-009,REL-005,APP-009 — Integration Suite 8,Suite covering Notification Handler scenarios for APP-009.,Full,Low,2023-09-30,Draft
+TS-0009,APP-011,REL-004,APP-011 — Regression Suite 9,Suite covering Sensor Manager scenarios for APP-011.,Regression,Medium,2022-07-17,Archived
+TS-0010,APP-011,REL-008,APP-011 — Smoke Suite 10,Suite covering Encryption Module scenarios for APP-011.,Performance,Low,2022-08-23,Archived
+TS-0011,APP-007,REL-008,APP-007 — Integration Suite 11,Suite covering UI Layer scenarios for APP-007.,Integration,Low,2023-03-28,Active
+TS-0012,APP-012,REL-003,APP-012 — Security Suite 12,Suite covering Configuration Service scenarios for APP-012.,Integration,Critical,2022-10-09,Draft
+TS-0013,APP-002,REL-005,APP-002 — Integration Suite 13,Suite covering Cache scenarios for APP-002.,Performance,High,2023-08-31,Active
+TS-0014,APP-008,REL-004,APP-008 — Smoke Suite 14,Suite covering Push Service scenarios for APP-008.,Smoke,Critical,2022-09-17,Draft
+TS-0015,APP-012,REL-001,APP-012 — Smoke Suite 15,Suite covering Sensor Manager scenarios for APP-012.,Performance,Medium,2023-01-12,Archived
+TS-0016,APP-011,REL-008,APP-011 — Integration Suite 16,Suite covering UI Layer scenarios for APP-011.,Integration,High,2023-11-30,Draft
+TS-0017,APP-002,REL-006,APP-002 — Smoke Suite 17,Suite covering Configuration Service scenarios for APP-002.,Security,Critical,2023-05-18,Draft
+TS-0018,APP-012,REL-007,APP-012 — Integration Suite 18,Suite covering Cache scenarios for APP-012.,Performance,High,2023-01-15,Archived
+TS-0019,APP-002,REL-005,APP-002 — Regression Suite 19,Suite covering UI Layer scenarios for APP-002.,Regression,Medium,2022-12-10,Active
+TS-0020,APP-010,REL-006,APP-010 — Smoke Suite 20,Suite covering Sensor Manager scenarios for APP-010.,Performance,Critical,2023-04-15,Active
+TS-0021,APP-010,REL-004,APP-010 — Performance Suite 21,Suite covering Search Indexer scenarios for APP-010.,Full,Medium,2022-10-08,Active
+TS-0022,APP-002,REL-007,APP-002 — Regression Suite 22,Suite covering Cache scenarios for APP-002.,Performance,Medium,2022-10-27,Archived
+TS-0023,APP-004,REL-008,APP-004 — Integration Suite 23,Suite covering Media Codec scenarios for APP-004.,Smoke,Medium,2022-10-28,Active
+TS-0024,APP-010,REL-006,APP-010 — Full Suite 24,Suite covering Diagnostics scenarios for APP-010.,Integration,Critical,2023-03-08,Draft
+TS-0025,APP-011,REL-004,APP-011 — Performance Suite 25,Suite covering Health API scenarios for APP-011.,Integration,Low,2022-07-31,Archived
+TS-0026,APP-003,REL-004,APP-003 — Integration Suite 26,Suite covering Notification Handler scenarios for APP-003.,Integration,Critical,2022-12-01,Draft
+TS-0027,APP-012,REL-007,APP-012 — Full Suite 27,Suite covering Sync Engine scenarios for APP-012.,Regression,Low,2023-05-12,Draft
+TS-0028,APP-011,REL-008,APP-011 — Full Suite 28,Suite covering Voice Pipeline scenarios for APP-011.,Performance,Critical,2023-11-23,Archived
+TS-0029,APP-005,REL-004,APP-005 — Integration Suite 29,Suite covering Cache scenarios for APP-005.,Performance,Critical,2022-10-13,Archived
+TS-0030,APP-010,REL-001,APP-010 — Integration Suite 30,Suite covering Health API scenarios for APP-010.,Performance,High,2022-10-19,Draft
+TS-0031,APP-012,REL-008,APP-012 — Full Suite 31,Suite covering Database scenarios for APP-012.,Smoke,High,2022-12-18,Active
+TS-0032,APP-006,REL-002,APP-006 — Integration Suite 32,Suite covering Database scenarios for APP-006.,Performance,Low,2022-11-20,Active
+TS-0033,APP-002,REL-006,APP-002 — Performance Suite 33,Suite covering Sync Engine scenarios for APP-002.,Regression,Critical,2023-11-10,Archived
+TS-0034,APP-010,REL-007,APP-010 — Smoke Suite 34,Suite covering Voice Pipeline scenarios for APP-010.,Smoke,Critical,2022-09-30,Active
+TS-0035,APP-007,REL-008,APP-007 — Full Suite 35,Suite covering Encryption Module scenarios for APP-007.,Smoke,Low,2022-08-31,Draft
+TS-0036,APP-011,REL-007,APP-011 — Full Suite 36,Suite covering Media Codec scenarios for APP-011.,Full,Critical,2022-10-01,Active
+TS-0037,APP-002,REL-002,APP-002 — Performance Suite 37,Suite covering Diagnostics scenarios for APP-002.,Smoke,Critical,2023-10-05,Archived
+TS-0038,APP-012,REL-002,APP-012 — Security Suite 38,Suite covering Sync Engine scenarios for APP-012.,Performance,Low,2023-08-19,Archived
+TS-0039,APP-010,REL-003,APP-010 — Regression Suite 39,Suite covering Sensor Manager scenarios for APP-010.,Regression,High,2023-07-21,Active
+TS-0040,APP-007,REL-008,APP-007 — Regression Suite 40,Suite covering Diagnostics scenarios for APP-007.,Security,Critical,2022-12-30,Active
+TS-0041,APP-003,REL-003,APP-003 — Regression Suite 41,Suite covering Cache scenarios for APP-003.,Performance,Medium,2022-10-04,Active
+TS-0042,APP-003,REL-004,APP-003 — Integration Suite 42,Suite covering Sync Engine scenarios for APP-003.,Regression,Medium,2022-07-06,Active
+TS-0043,APP-002,REL-005,APP-002 — Full Suite 43,Suite covering Cache scenarios for APP-002.,Smoke,Low,2022-06-01,Active
+TS-0044,APP-005,REL-001,APP-005 — Security Suite 44,Suite covering Health API scenarios for APP-005.,Integration,Low,2022-10-22,Draft
+TS-0045,APP-012,REL-006,APP-012 — Security Suite 45,Suite covering Rendering Engine scenarios for APP-012.,Security,High,2022-09-10,Active
+TS-0046,APP-004,REL-001,APP-004 — Smoke Suite 46,Suite covering Database scenarios for APP-004.,Full,High,2022-10-16,Active
+TS-0047,APP-010,REL-006,APP-010 — Full Suite 47,Suite covering Database scenarios for APP-010.,Integration,Low,2022-08-16,Archived
+TS-0048,APP-005,REL-007,APP-005 — Integration Suite 48,Suite covering Sync Engine scenarios for APP-005.,Performance,Low,2022-08-25,Archived
+TS-0049,APP-011,REL-007,APP-011 — Integration Suite 49,Suite covering Database scenarios for APP-011.,Security,High,2022-08-12,Archived
+TS-0050,APP-011,REL-004,APP-011 — Integration Suite 50,Suite covering Rendering Engine scenarios for APP-011.,Security,High,2023-08-04,Active
+TS-0051,APP-006,REL-007,APP-006 — Performance Suite 51,Suite covering Authentication scenarios for APP-006.,Security,High,2022-08-19,Archived
+TS-0052,APP-002,REL-002,APP-002 — Integration Suite 52,Suite covering Cache scenarios for APP-002.,Performance,Critical,2023-05-04,Active
+TS-0053,APP-006,REL-006,APP-006 — Full Suite 53,Suite covering Database scenarios for APP-006.,Smoke,Medium,2022-06-11,Active
+TS-0054,APP-007,REL-004,APP-007 — Performance Suite 54,Suite covering UI Layer scenarios for APP-007.,Regression,High,2023-11-22,Archived
+TS-0055,APP-010,REL-008,APP-010 — Regression Suite 55,Suite covering Diagnostics scenarios for APP-010.,Full,Medium,2023-03-05,Active
+TS-0056,APP-001,REL-003,APP-001 — Full Suite 56,Suite covering Voice Pipeline scenarios for APP-001.,Smoke,Medium,2023-11-27,Draft
+TS-0057,APP-008,REL-003,APP-008 — Full Suite 57,Suite covering Authentication scenarios for APP-008.,Integration,High,2022-10-08,Active
+TS-0058,APP-007,REL-005,APP-007 — Regression Suite 58,Suite covering Rendering Engine scenarios for APP-007.,Integration,High,2023-08-03,Draft
+TS-0059,APP-003,REL-008,APP-003 — Full Suite 59,Suite covering Media Codec scenarios for APP-003.,Security,Medium,2023-03-10,Draft
+TS-0060,APP-009,REL-004,APP-009 — Full Suite 60,Suite covering Bluetooth Module scenarios for APP-009.,Full,Low,2023-04-17,Active
+TS-0061,APP-011,REL-002,APP-011 — Regression Suite 61,Suite covering Notification Handler scenarios for APP-011.,Regression,High,2022-07-29,Active
+TS-0062,APP-012,REL-005,APP-012 — Security Suite 62,Suite covering Firmware Manager scenarios for APP-012.,Regression,Low,2023-11-03,Active
+TS-0063,APP-008,REL-008,APP-008 — Security Suite 63,Suite covering Cache scenarios for APP-008.,Integration,Critical,2023-07-21,Active
+TS-0064,APP-010,REL-004,APP-010 — Integration Suite 64,Suite covering Authentication scenarios for APP-010.,Integration,Low,2023-11-30,Archived
+TS-0065,APP-004,REL-001,APP-004 — Security Suite 65,Suite covering Media Codec scenarios for APP-004.,Smoke,High,2022-11-27,Active
+TS-0066,APP-006,REL-003,APP-006 — Security Suite 66,Suite covering Rendering Engine scenarios for APP-006.,Regression,Low,2023-10-21,Draft
+TS-0067,APP-003,REL-006,APP-003 — Regression Suite 67,Suite covering Sensor Manager scenarios for APP-003.,Integration,High,2022-09-29,Archived
+TS-0068,APP-005,REL-008,APP-005 — Full Suite 68,Suite covering Payment Gateway scenarios for APP-005.,Smoke,Critical,2023-07-09,Active
+TS-0069,APP-005,REL-001,APP-005 — Performance Suite 69,Suite covering Encryption Module scenarios for APP-005.,Performance,Critical,2023-05-31,Active
+TS-0070,APP-010,REL-008,APP-010 — Full Suite 70,Suite covering Health API scenarios for APP-010.,Full,Critical,2022-06-06,Archived
+TS-0071,APP-012,REL-003,APP-012 — Performance Suite 71,Suite covering Rendering Engine scenarios for APP-012.,Regression,Critical,2023-08-16,Draft
+TS-0072,APP-004,REL-002,APP-004 — Security Suite 72,Suite covering Diagnostics scenarios for APP-004.,Smoke,Low,2022-10-05,Draft
+TS-0073,APP-001,REL-003,APP-001 — Integration Suite 73,Suite covering Payment Gateway scenarios for APP-001.,Smoke,Low,2023-07-10,Archived
+TS-0074,APP-005,REL-006,APP-005 — Performance Suite 74,Suite covering Sync Engine scenarios for APP-005.,Security,Medium,2022-09-20,Draft
+TS-0075,APP-011,REL-008,APP-011 — Smoke Suite 75,Suite covering Database scenarios for APP-011.,Full,Low,2022-06-06,Archived
+TS-0076,APP-012,REL-004,APP-012 — Regression Suite 76,Suite covering Push Service scenarios for APP-012.,Full,Critical,2022-10-15,Draft
+TS-0077,APP-007,REL-006,APP-007 — Regression Suite 77,Suite covering Sync Engine scenarios for APP-007.,Integration,High,2023-10-04,Archived
+TS-0078,APP-002,REL-007,APP-002 — Performance Suite 78,Suite covering Cache scenarios for APP-002.,Performance,High,2023-04-29,Draft
+TS-0079,APP-009,REL-007,APP-009 — Smoke Suite 79,Suite covering UI Layer scenarios for APP-009.,Regression,Critical,2022-10-08,Active
+TS-0080,APP-006,REL-001,APP-006 — Integration Suite 80,Suite covering Notification Handler scenarios for APP-006.,Regression,Medium,2023-08-14,Active
+TS-0081,APP-007,REL-008,APP-007 — Full Suite 81,Suite covering Health API scenarios for APP-007.,Performance,Critical,2023-08-14,Active
+TS-0082,APP-010,REL-003,APP-010 — Integration Suite 82,Suite covering Diagnostics scenarios for APP-010.,Smoke,High,2023-03-15,Active
+TS-0083,APP-005,REL-004,APP-005 — Integration Suite 83,Suite covering Search Indexer scenarios for APP-005.,Smoke,Low,2022-09-14,Active
+TS-0084,APP-004,REL-003,APP-004 — Smoke Suite 84,Suite covering UI Layer scenarios for APP-004.,Smoke,Low,2022-07-10,Archived
+TS-0085,APP-004,REL-003,APP-004 — Performance Suite 85,Suite covering Authentication scenarios for APP-004.,Security,High,2022-09-02,Active
+TS-0086,APP-007,REL-007,APP-007 — Security Suite 86,Suite covering Health API scenarios for APP-007.,Integration,High,2023-01-14,Archived
+TS-0087,APP-007,REL-008,APP-007 — Regression Suite 87,Suite covering Diagnostics scenarios for APP-007.,Performance,Critical,2023-04-08,Active
+TS-0088,APP-005,REL-006,APP-005 — Full Suite 88,Suite covering Rendering Engine scenarios for APP-005.,Integration,Low,2023-02-08,Archived
+TS-0089,APP-001,REL-003,APP-001 — Regression Suite 89,Suite covering Authentication scenarios for APP-001.,Regression,Medium,2023-01-04,Archived
+TS-0090,APP-008,REL-005,APP-008 — Security Suite 90,Suite covering UI Layer scenarios for APP-008.,Performance,High,2023-02-14,Draft
+TS-0091,APP-006,REL-006,APP-006 — Full Suite 91,Suite covering UI Layer scenarios for APP-006.,Regression,Critical,2022-10-12,Archived
+TS-0092,APP-006,REL-006,APP-006 — Integration Suite 92,Suite covering Configuration Service scenarios for APP-006.,Security,Medium,2023-01-30,Archived
+TS-0093,APP-004,REL-007,APP-004 — Regression Suite 93,Suite covering UI Layer scenarios for APP-004.,Smoke,Critical,2022-07-13,Active
+TS-0094,APP-004,REL-008,APP-004 — Regression Suite 94,Suite covering Bluetooth Module scenarios for APP-004.,Security,Medium,2023-04-05,Draft
+TS-0095,APP-004,REL-003,APP-004 — Regression Suite 95,Suite covering Database scenarios for APP-004.,Smoke,Low,2023-02-14,Archived
+TS-0096,APP-006,REL-008,APP-006 — Integration Suite 96,Suite covering UI Layer scenarios for APP-006.,Performance,Critical,2023-10-08,Draft
+TS-0097,APP-009,REL-001,APP-009 — Smoke Suite 97,Suite covering Encryption Module scenarios for APP-009.,Full,High,2023-03-24,Active
+TS-0098,APP-010,REL-001,APP-010 — Integration Suite 98,Suite covering Push Service scenarios for APP-010.,Integration,Low,2023-10-20,Active
+TS-0099,APP-003,REL-008,APP-003 — Security Suite 99,Suite covering Voice Pipeline scenarios for APP-003.,Security,Low,2023-07-16,Archived
+TS-0100,APP-004,REL-003,APP-004 — Regression Suite 100,Suite covering Sync Engine scenarios for APP-004.,Security,High,2022-06-10,Draft
+TS-0101,APP-009,REL-005,APP-009 — Full Suite 101,Suite covering Notification Handler scenarios for APP-009.,Full,Medium,2022-09-30,Active
+TS-0102,APP-004,REL-001,APP-004 — Security Suite 102,Suite covering Notification Handler scenarios for APP-004.,Full,Critical,2022-10-30,Archived
+TS-0103,APP-003,REL-005,APP-003 — Regression Suite 103,Suite covering Notification Handler scenarios for APP-003.,Smoke,Critical,2022-06-02,Archived
+TS-0104,APP-011,REL-006,APP-011 — Full Suite 104,Suite covering Bluetooth Module scenarios for APP-011.,Integration,Medium,2022-10-15,Draft
+TS-0105,APP-010,REL-005,APP-010 — Full Suite 105,Suite covering Network Stack scenarios for APP-010.,Integration,Critical,2023-05-31,Active
+TS-0106,APP-012,REL-005,APP-012 — Smoke Suite 106,Suite covering Payment Gateway scenarios for APP-012.,Regression,Critical,2023-06-27,Archived
+TS-0107,APP-011,REL-004,APP-011 — Performance Suite 107,Suite covering Notification Handler scenarios for APP-011.,Full,Medium,2022-12-26,Draft
+TS-0108,APP-003,REL-008,APP-003 — Smoke Suite 108,Suite covering Search Indexer scenarios for APP-003.,Full,High,2023-10-04,Active
+TS-0109,APP-008,REL-003,APP-008 — Performance Suite 109,Suite covering Sync Engine scenarios for APP-008.,Smoke,High,2023-10-16,Active
+TS-0110,APP-011,REL-005,APP-011 — Regression Suite 110,Suite covering Health API scenarios for APP-011.,Smoke,High,2023-07-09,Active

@@ -1,0 +1,26 @@
+solution_id,name,application_id,component,version,status,description,created_date
+SOL-001,Pairing Service,APP-002,Notification Handler,3.1,Beta,Provides pairing service capabilities integrated with the parent application platform.,2020-09-12
+SOL-002,Auth Gateway,APP-003,Voice Pipeline,3.7,Deprecated,Provides auth gateway capabilities integrated with the parent application platform.,2020-11-14
+SOL-003,Sync Engine,APP-004,Rendering Engine,3.3,Deprecated,Provides sync engine capabilities integrated with the parent application platform.,2022-05-20
+SOL-004,Push Notification Service,APP-005,Bluetooth Module,5.2,Stable,Provides push notification service capabilities integrated with the parent application platform.,2021-02-06
+SOL-005,Data Pipeline,APP-006,Sync Engine,4.6,Deprecated,Provides data pipeline capabilities integrated with the parent application platform.,2022-03-18
+SOL-006,Analytics Core,APP-007,Cache,2.5,Stable,Provides analytics core capabilities integrated with the parent application platform.,2021-01-21
+SOL-007,Search Index,APP-008,Network Stack,3.6,Deprecated,Provides search index capabilities integrated with the parent application platform.,2020-08-07
+SOL-008,Recommendation Engine,APP-009,Push Service,5.5,Beta,Provides recommendation engine capabilities integrated with the parent application platform.,2022-04-03
+SOL-009,Payment Processor,APP-010,Firmware Manager,4.7,Beta,Provides payment processor capabilities integrated with the parent application platform.,2021-02-27
+SOL-010,Health Monitor,APP-011,Database,2.8,Stable,Provides health monitor capabilities integrated with the parent application platform.,2021-02-25
+SOL-011,Activity Tracker,APP-012,Configuration Service,4.9,Stable,Provides activity tracker capabilities integrated with the parent application platform.,2021-06-06
+SOL-012,AR Renderer,APP-001,Notification Handler,2.8,Stable,Provides ar renderer capabilities integrated with the parent application platform.,2020-09-02
+SOL-013,VR Compositor,APP-002,Network Stack,1.2,Beta,Provides vr compositor capabilities integrated with the parent application platform.,2022-04-28
+SOL-014,Browser Engine,APP-003,Search Indexer,5.1,Stable,Provides browser engine capabilities integrated with the parent application platform.,2021-06-26
+SOL-015,Tab Manager,APP-004,Encryption Module,4.8,Deprecated,Provides tab manager capabilities integrated with the parent application platform.,2021-12-19
+SOL-016,NLP Processor,APP-005,Authentication,1.8,Deprecated,Provides nlp processor capabilities integrated with the parent application platform.,2022-03-19
+SOL-017,Wake Word Detector,APP-006,Sensor Manager,1.4,Stable,Provides wake word detector capabilities integrated with the parent application platform.,2020-11-09
+SOL-018,Device Registry,APP-007,Media Codec,1.4,Stable,Provides device registry capabilities integrated with the parent application platform.,2020-11-30
+SOL-019,Media Transcoder,APP-008,Diagnostics,1.4,Stable,Provides media transcoder capabilities integrated with the parent application platform.,2022-02-14
+SOL-020,Playlist Manager,APP-009,Push Service,2.5,Beta,Provides playlist manager capabilities integrated with the parent application platform.,2021-12-05
+SOL-021,Firmware Updater,APP-010,Diagnostics,1.9,Deprecated,Provides firmware updater capabilities integrated with the parent application platform.,2021-10-14
+SOL-022,Diagnostics Agent,APP-011,Authentication,1.5,Deprecated,Provides diagnostics agent capabilities integrated with the parent application platform.,2021-02-01
+SOL-023,Configuration Manager,APP-012,Network Stack,2.9,Stable,Provides configuration manager capabilities integrated with the parent application platform.,2020-08-27
+SOL-024,Cloud Storage Connector,APP-001,Firmware Manager,1.8,Beta,Provides cloud storage connector capabilities integrated with the parent application platform.,2020-10-10
+SOL-025,Security Vault,APP-002,Firmware Manager,5.2,Deprecated,Provides security vault capabilities integrated with the parent application platform.,2021-11-23

@@ -1,0 +1,11 @@
+environment_id,name,device_type,os_version,network_type,location,configuration,status
+ENV-001,Mobile Lab,Mobile,Android 14,WiFi-6,Cloud-GCP,"4-core CPU, 8GB RAM, 118GB storage",Available
+ENV-002,Wearable Lab,Wearable,Wear OS 4,Bluetooth 5.3,Cloud-AWS,"4-core CPU, 8GB RAM, 166GB storage",Busy
+ENV-003,Hub Lab,Hub,Tizen 7.0,WiFi-6,Cloud-GCP,"4-core CPU, 8GB RAM, 196GB storage",Maintenance
+ENV-004,XR Lab,XR Headset,One UI 6.0,WiFi-6,Bangalore Lab,"4-core CPU, 8GB RAM, 127GB storage",Available
+ENV-005,Infra Lab,Cloud Node,Ubuntu 22.04,Ethernet,Bangalore Lab,"4-core CPU, 8GB RAM, 150GB storage",Available
+ENV-006,Cloud Test Env,Cloud Node,Ubuntu 22.04,Ethernet,Seoul Lab,"4-core CPU, 8GB RAM, 214GB storage",Available
+ENV-007,Staging,Mobile,Android 13,LTE,Bangalore Lab,"4-core CPU, 8GB RAM, 82GB storage",Available
+ENV-008,Production-like,Mobile,One UI 6.0,5G,Seoul Lab,"4-core CPU, 8GB RAM, 81GB storage",Available
+ENV-009,Low Network Env,Mobile,Android 14,Low-BW Sim,Cloud-AWS,"4-core CPU, 8GB RAM, 82GB storage",Available
+ENV-010,High Load Env,Cloud Node,Ubuntu 22.04,Ethernet,Cloud-AWS,"4-core CPU, 8GB RAM, 235GB storage",Maintenance

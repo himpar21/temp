@@ -1,0 +1,300 @@
+{"query_id": "EVAL-LINE-0001", "entity_ids": []}
+{"query_id": "EVAL-LINE-0002", "entity_ids": []}
+{"query_id": "EVAL-LINE-0003", "entity_ids": []}
+{"query_id": "EVAL-LINE-0004", "entity_ids": []}
+{"query_id": "EVAL-LINE-0005", "entity_ids": []}
+{"query_id": "EVAL-LINE-0006", "entity_ids": []}
+{"query_id": "EVAL-LINE-0007", "entity_ids": []}
+{"query_id": "EVAL-LINE-0008", "entity_ids": []}
+{"query_id": "EVAL-LINE-0009", "entity_ids": []}
+{"query_id": "EVAL-LINE-0010", "entity_ids": []}
+{"query_id": "EVAL-LINE-0011", "entity_ids": ["REQ-0115"]}
+{"query_id": "EVAL-LINE-0012", "entity_ids": []}
+{"query_id": "EVAL-LINE-0013", "entity_ids": []}
+{"query_id": "EVAL-LINE-0014", "entity_ids": []}
+{"query_id": "EVAL-LINE-0015", "entity_ids": []}
+{"query_id": "EVAL-LINE-0016", "entity_ids": []}
+{"query_id": "EVAL-LINE-0017", "entity_ids": ["TS-0032"]}
+{"query_id": "EVAL-LINE-0018", "entity_ids": ["REQ-0352"]}
+{"query_id": "EVAL-LINE-0019", "entity_ids": []}
+{"query_id": "EVAL-LINE-0020", "entity_ids": []}
+{"query_id": "EVAL-LINE-0021", "entity_ids": []}
+{"query_id": "EVAL-LINE-0022", "entity_ids": []}
+{"query_id": "EVAL-LINE-0023", "entity_ids": []}
+{"query_id": "EVAL-LINE-0024", "entity_ids": ["FAIL-0103"]}
+{"query_id": "EVAL-LINE-0025", "entity_ids": ["ENV-001"]}
+{"query_id": "EVAL-LINE-0026", "entity_ids": []}
+{"query_id": "EVAL-LINE-0027", "entity_ids": ["TC-1576"]}
+{"query_id": "EVAL-LINE-0028", "entity_ids": []}
+{"query_id": "EVAL-LINE-0029", "entity_ids": []}
+{"query_id": "EVAL-LINE-0030", "entity_ids": ["BUG-0288"]}
+{"query_id": "EVAL-LINE-0031", "entity_ids": ["ENG-067"]}
+{"query_id": "EVAL-LINE-0032", "entity_ids": []}
+{"query_id": "EVAL-LINE-0033", "entity_ids": ["REQ-0005"]}
+{"query_id": "EVAL-LINE-0034", "entity_ids": []}
+{"query_id": "EVAL-LINE-0035", "entity_ids": ["BUG-0261"]}
+{"query_id": "EVAL-LINE-0036", "entity_ids": []}
+{"query_id": "EVAL-LINE-0037", "entity_ids": []}
+{"query_id": "EVAL-LINE-0038", "entity_ids": ["FAIL-0326"]}
+{"query_id": "EVAL-LINE-0039", "entity_ids": []}
+{"query_id": "EVAL-LINE-0040", "entity_ids": ["RUN-001"]}
+{"query_id": "EVAL-LINE-0041", "entity_ids": []}
+{"query_id": "EVAL-LINE-0042", "entity_ids": ["RUN-001"]}
+{"query_id": "EVAL-LINE-0043", "entity_ids": []}
+{"query_id": "EVAL-LINE-0044", "entity_ids": []}
+{"query_id": "EVAL-LINE-0045", "entity_ids": ["REQ-0435"]}
+{"query_id": "EVAL-LINE-0046", "entity_ids": ["TC-0520"]}
+{"query_id": "EVAL-LINE-0047", "entity_ids": ["FAIL-0077"]}
+{"query_id": "EVAL-LINE-0048", "entity_ids": ["EXEC-01466"]}
+{"query_id": "EVAL-LINE-0049", "entity_ids": ["RUN-009"]}
+{"query_id": "EVAL-LINE-0050", "entity_ids": []}
+{"query_id": "EVAL-LINE-0051", "entity_ids": []}
+{"query_id": "EVAL-LINE-0052", "entity_ids": ["REQ-0363"]}
+{"query_id": "EVAL-LINE-0053", "entity_ids": ["RUN-010"]}
+{"query_id": "EVAL-LINE-0054", "entity_ids": []}
+{"query_id": "EVAL-LINE-0055", "entity_ids": []}
+{"query_id": "EVAL-LINE-0056", "entity_ids": []}
+{"query_id": "EVAL-LINE-0057", "entity_ids": []}
+{"query_id": "EVAL-LINE-0058", "entity_ids": []}
+{"query_id": "EVAL-LINE-0059", "entity_ids": []}
+{"query_id": "EVAL-LINE-0060", "entity_ids": []}
+{"query_id": "EVAL-LINE-0061", "entity_ids": []}
+{"query_id": "EVAL-LINE-0062", "entity_ids": []}
+{"query_id": "EVAL-LINE-0063", "entity_ids": []}
+{"query_id": "EVAL-LINE-0064", "entity_ids": ["REQ-0115"]}
+{"query_id": "EVAL-LINE-0065", "entity_ids": []}
+{"query_id": "EVAL-LINE-0066", "entity_ids": []}
+{"query_id": "EVAL-LINE-0067", "entity_ids": []}
+{"query_id": "EVAL-LINE-0068", "entity_ids": []}
+{"query_id": "EVAL-LINE-0069", "entity_ids": []}
+{"query_id": "EVAL-LINE-0070", "entity_ids": ["TS-0032"]}
+{"query_id": "EVAL-LINE-0071", "entity_ids": ["REQ-0352"]}
+{"query_id": "EVAL-LINE-0072", "entity_ids": []}
+{"query_id": "EVAL-LINE-0073", "entity_ids": []}
+{"query_id": "EVAL-LINE-0074", "entity_ids": []}
+{"query_id": "EVAL-LINE-0075", "entity_ids": []}
+{"query_id": "EVAL-LINE-0076", "entity_ids": []}
+{"query_id": "EVAL-LINE-0077", "entity_ids": ["FAIL-0103"]}
+{"query_id": "EVAL-LINE-0078", "entity_ids": ["ENV-001"]}
+{"query_id": "EVAL-LINE-0079", "entity_ids": []}
+{"query_id": "EVAL-LINE-0080", "entity_ids": ["TC-1576"]}
+{"query_id": "EVAL-LINE-0081", "entity_ids": []}
+{"query_id": "EVAL-LINE-0082", "entity_ids": []}
+{"query_id": "EVAL-LINE-0083", "entity_ids": ["BUG-0288"]}
+{"query_id": "EVAL-LINE-0084", "entity_ids": ["ENG-067"]}
+{"query_id": "EVAL-LINE-0085", "entity_ids": []}
+{"query_id": "EVAL-LINE-0086", "entity_ids": ["REQ-0005"]}
+{"query_id": "EVAL-LINE-0087", "entity_ids": []}
+{"query_id": "EVAL-LINE-0088", "entity_ids": ["BUG-0261"]}
+{"query_id": "EVAL-LINE-0089", "entity_ids": []}
+{"query_id": "EVAL-LINE-0090", "entity_ids": []}
+{"query_id": "EVAL-LINE-0091", "entity_ids": ["FAIL-0326"]}
+{"query_id": "EVAL-LINE-0092", "entity_ids": []}
+{"query_id": "EVAL-LINE-0093", "entity_ids": ["RUN-001"]}
+{"query_id": "EVAL-LINE-0094", "entity_ids": []}
+{"query_id": "EVAL-LINE-0095", "entity_ids": ["RUN-001"]}
+{"query_id": "EVAL-LINE-0096", "entity_ids": []}
+{"query_id": "EVAL-LINE-0097", "entity_ids": []}
+{"query_id": "EVAL-LINE-0098", "entity_ids": ["REQ-0435"]}
+{"query_id": "EVAL-LINE-0099", "entity_ids": ["TC-0520"]}
+{"query_id": "EVAL-LINE-0100", "entity_ids": ["FAIL-0077"]}
+{"query_id": "EVAL-PDF-0101", "entity_ids": ["TC-0109", "REQ-0484", "EXEC-00559"]}
+{"query_id": "EVAL-PDF-0102", "entity_ids": ["REQ-0090", "TC-0783", "TC-0854", "TC-1423", "TC-1525", "BUG-0497"]}
+{"query_id": "EVAL-PDF-0103", "entity_ids": ["EXEC-03575", "REQ-0325", "TC-1634", "FAIL-0688", "BUG-0263"]}
+{"query_id": "EVAL-PDF-0104", "entity_ids": ["EXEC-00098", "REQ-0442", "TC-0055", "FAIL-0020"]}
+{"query_id": "EVAL-PDF-0105", "entity_ids": ["EXEC-04431", "REQ-0349", "TC-1290"]}
+{"query_id": "EVAL-PDF-0106", "entity_ids": ["EXEC-00678", "REQ-0319", "TC-1552", "FAIL-0148", "BUG-0224"]}
+{"query_id": "EVAL-PDF-0107", "entity_ids": ["EXEC-02320", "REQ-0177", "TC-1984", "FAIL-0465", "BUG-0203"]}
+{"query_id": "EVAL-PDF-0108", "entity_ids": ["FAIL-0518", "REQ-0264", "TC-0567", "EXEC-02636", "BUG-0445"]}
+{"query_id": "EVAL-PDF-0109", "entity_ids": ["FAIL-0778", "REQ-0213", "TC-1439", "EXEC-04063", "BUG-0500"]}
+{"query_id": "EVAL-PDF-0110", "entity_ids": ["TS-0095", "REQ-0156", "REQ-0285", "REQ-0366", "REQ-0027", "REQ-0354", "TC-0063", "TC-0119", "TC-0157", "TC-0266", "TC-0523", "TC-0526", "TC-0578", "TC-0635"]}
+{"query_id": "EVAL-PDF-0111", "entity_ids": ["REQ-0115", "TC-0093", "TC-0102", "TC-0486", "TC-0786", "TC-1064"]}
+{"query_id": "EVAL-PDF-0112", "entity_ids": ["TS-0102", "REQ-0516", "REQ-0451", "REQ-0257", "REQ-0197", "REQ-0254", "TC-0203", "TC-0224", "TC-0288", "TC-0341", "TC-0386", "TC-0412", "TC-0479", "TC-0499"]}
+{"query_id": "EVAL-PDF-0113", "entity_ids": ["TS-0026", "REQ-0161", "REQ-0214", "REQ-0131", "REQ-0469", "REQ-0386", "TC-0116", "TC-0124", "TC-0172", "TC-0299", "TC-0377", "TC-0595", "TC-0683", "TC-1031"]}
+{"query_id": "EVAL-PDF-0114", "entity_ids": ["EXEC-02702", "REQ-0124", "TC-1797", "FAIL-0527", "BUG-0374"]}
+{"query_id": "EVAL-PDF-0115", "entity_ids": ["TS-0012", "REQ-0232", "REQ-0121", "REQ-0292", "REQ-0313", "REQ-0030", "TC-0171", "TC-0335", "TC-0581", "TC-0684", "TC-1019", "TC-1060", "TC-1179", "TC-1185"]}
+{"query_id": "EVAL-PDF-0116", "entity_ids": ["TS-0087", "REQ-0203", "REQ-0266", "REQ-0223", "REQ-0025", "REQ-0336", "TC-0254", "TC-0411", "TC-0624", "TC-0804", "TC-0807", "TC-0810", "TC-0865", "TC-0912"]}
+{"query_id": "EVAL-PDF-0117", "entity_ids": ["EXEC-03814", "REQ-0366", "TC-1406"]}
+{"query_id": "EVAL-PDF-0118", "entity_ids": ["FAIL-0575", "REQ-0427", "TC-0007", "EXEC-02960"]}
+{"query_id": "EVAL-PDF-0119", "entity_ids": ["TC-0882", "REQ-0423", "EXEC-03338", "EXEC-04833"]}
+{"query_id": "EVAL-PDF-0120", "entity_ids": ["FAIL-0160", "REQ-0418", "TC-1021", "EXEC-00738"]}
+{"query_id": "EVAL-PDF-0121", "entity_ids": ["BUG-0090", "REQ-0307", "TC-0977", "EXEC-05142", "FAIL-0964"]}
+{"query_id": "EVAL-PDF-0122", "entity_ids": ["REQ-0031", "TC-1194", "TC-1225", "TC-2099", "BUG-0337", "BUG-0357"]}
+{"query_id": "EVAL-PDF-0123", "entity_ids": ["BUG-0143", "REQ-0300", "TC-0905", "EXEC-03980", "FAIL-0766"]}
+{"query_id": "EVAL-PDF-0124", "entity_ids": ["EXEC-00997", "REQ-0479", "TC-0759"]}
+{"query_id": "EVAL-PDF-0125", "entity_ids": ["TC-0896", "REQ-0426"]}
+{"query_id": "EVAL-PDF-0126", "entity_ids": ["TC-0323", "REQ-0250", "EXEC-04734", "EXEC-03246", "EXEC-00942"]}
+{"query_id": "EVAL-PDF-0127", "entity_ids": ["BUG-0371", "REQ-0353", "TC-0217", "EXEC-03664", "FAIL-0704"]}
+{"query_id": "EVAL-PDF-0128", "entity_ids": ["TS-0005", "REQ-0438", "REQ-0047", "REQ-0100", "REQ-0391", "REQ-0460", "TC-0017", "TC-0048", "TC-0342", "TC-0345", "TC-0430", "TC-0501", "TC-0695", "TC-0772"]}
+{"query_id": "EVAL-PDF-0129", "entity_ids": ["REQ-0433", "TC-0033", "TC-0180", "TC-0586", "TC-0626", "TC-0982", "BUG-0258"]}
+{"query_id": "EVAL-PDF-0130", "entity_ids": ["REQ-0026", "TC-0542", "TC-1539", "TC-1575", "TC-2071", "BUG-0227"]}
+{"query_id": "EVAL-PDF-0131", "entity_ids": ["EXEC-03284", "REQ-0158", "TC-0226", "FAIL-0640"]}
+{"query_id": "EVAL-PDF-0132", "entity_ids": ["TC-0380", "REQ-0456", "EXEC-03472", "EXEC-04384", "EXEC-01933", "FAIL-0837", "BUG-0008"]}
+{"query_id": "EVAL-PDF-0133", "entity_ids": ["TC-0327", "REQ-0184", "EXEC-02448", "EXEC-04785", "EXEC-02498", "FAIL-0448"]}
+{"query_id": "EVAL-PDF-0134", "entity_ids": ["EXEC-01395", "REQ-0497", "TC-0639", "FAIL-0293", "BUG-0215"]}
+{"query_id": "EVAL-PDF-0135", "entity_ids": ["FAIL-0715", "REQ-0441", "TC-1344", "EXEC-03733", "BUG-0465"]}
+{"query_id": "EVAL-PDF-0136", "entity_ids": ["BUG-0239", "REQ-0241", "TC-0790", "EXEC-04497", "FAIL-0854"]}
+{"query_id": "EVAL-PDF-0137", "entity_ids": ["BUG-0229", "REQ-0293", "TC-1200", "EXEC-00269", "FAIL-0065"]}
+{"query_id": "EVAL-PDF-0138", "entity_ids": ["REQ-0204", "TC-0845", "TC-1591", "TC-1616"]}
+{"query_id": "EVAL-PDF-0139", "entity_ids": ["FAIL-0285", "REQ-0295", "TC-0281", "EXEC-01362"]}
+{"query_id": "EVAL-PDF-0140", "entity_ids": ["REQ-0081", "TC-1942", "BUG-0354"]}
+{"query_id": "EVAL-PDF-0141", "entity_ids": ["EXEC-03053", "REQ-0519", "TC-0263", "FAIL-0591"]}
+{"query_id": "EVAL-PDF-0142", "entity_ids": ["TS-0097", "REQ-0455", "REQ-0176", "REQ-0431", "REQ-0313", "REQ-0380", "TC-0372", "TC-0453", "TC-0546", "TC-0561", "TC-0693", "TC-0724", "TC-0848", "TC-1033"]}
+{"query_id": "EVAL-PDF-0143", "entity_ids": ["REQ-0349", "TC-0801", "TC-0938", "TC-0998", "TC-1290", "TC-1386", "BUG-0126"]}
+{"query_id": "EVAL-PDF-0144", "entity_ids": ["REQ-0007", "TC-0488", "TC-0685", "TC-0883", "TC-1170", "BUG-0156", "BUG-0252", "BUG-0325"]}
+{"query_id": "EVAL-PDF-0145", "entity_ids": ["FAIL-0829", "REQ-0473", "TC-1220", "EXEC-04345"]}
+{"query_id": "EVAL-PDF-0146", "entity_ids": ["BUG-0204", "REQ-0336", "TC-0254", "EXEC-01035", "FAIL-0222"]}
+{"query_id": "EVAL-PDF-0147", "entity_ids": ["FAIL-0666", "REQ-0241", "TC-0256", "EXEC-03492", "BUG-0065"]}
+{"query_id": "EVAL-PDF-0148", "entity_ids": ["REQ-0045", "TC-0081", "TC-0315", "TC-0385", "TC-0489", "TC-0490", "BUG-0236", "BUG-0401", "BUG-0417"]}
+{"query_id": "EVAL-PDF-0149", "entity_ids": ["REQ-0301", "TC-0192", "TC-0423", "TC-0620", "BUG-0423"]}
+{"query_id": "EVAL-PDF-0150", "entity_ids": ["FAIL-0826", "REQ-0325", "TC-1197", "EXEC-04326", "BUG-0330"]}
+{"query_id": "EVAL-HYBRID-0151", "entity_ids": ["BUG-0031", "REQ-0514", "TC-0658", "EXEC-00071", "FAIL-0018"]}
+{"query_id": "EVAL-HYBRID-0152", "entity_ids": ["FAIL-0778", "REQ-0213", "TC-1439", "EXEC-04063", "BUG-0500"]}
+{"query_id": "EVAL-HYBRID-0153", "entity_ids": ["TC-1482", "REQ-0397", "EXEC-02492", "EXEC-00765", "EXEC-02606", "FAIL-0166", "FAIL-0401", "BUG-0290"]}
+{"query_id": "EVAL-HYBRID-0154", "entity_ids": ["EXEC-04431", "REQ-0349", "TC-1290"]}
+{"query_id": "EVAL-HYBRID-0155", "entity_ids": ["FAIL-0105", "REQ-0393", "TC-1846", "EXEC-00458"]}
+{"query_id": "EVAL-HYBRID-0156", "entity_ids": ["TS-0026", "REQ-0161", "REQ-0214", "REQ-0131", "REQ-0469", "REQ-0386", "TC-0116", "TC-0124", "TC-0172", "TC-0299", "TC-0377", "TC-0595", "TC-0683", "TC-1031"]}
+{"query_id": "EVAL-HYBRID-0157", "entity_ids": ["FAIL-0782", "REQ-0192", "TC-1541", "EXEC-04076", "BUG-0220"]}
+{"query_id": "EVAL-HYBRID-0158", "entity_ids": ["BUG-0164", "REQ-0112", "TC-2024", "EXEC-03143", "FAIL-0617"]}
+{"query_id": "EVAL-HYBRID-0159", "entity_ids": ["TS-0072", "REQ-0479", "REQ-0395", "REQ-0276", "REQ-0268", "REQ-0095", "TC-0114", "TC-0329", "TC-0478", "TC-0608", "TC-0686", "TC-0842", "TC-0850", "TC-0874"]}
+{"query_id": "EVAL-HYBRID-0160", "entity_ids": ["BUG-0095", "REQ-0002", "TC-1825", "EXEC-03459", "FAIL-0662"]}
+{"query_id": "EVAL-HYBRID-0161", "entity_ids": ["FAIL-0782", "REQ-0192", "TC-1541", "EXEC-04076", "BUG-0220"]}
+{"query_id": "EVAL-HYBRID-0162", "entity_ids": ["TC-1882", "REQ-0306", "EXEC-04132", "EXEC-02809"]}
+{"query_id": "EVAL-HYBRID-0163", "entity_ids": ["REQ-0353", "TC-0152", "TC-0217", "TC-0591", "TC-1257", "TC-1387", "BUG-0159", "BUG-0161", "BUG-0189"]}
+{"query_id": "EVAL-HYBRID-0164", "entity_ids": ["BUG-0160", "REQ-0281", "TC-1038", "EXEC-02302", "FAIL-0462"]}
+{"query_id": "EVAL-HYBRID-0165", "entity_ids": ["FAIL-0164", "REQ-0410", "TC-0473", "EXEC-00745", "BUG-0343"]}
+{"query_id": "EVAL-HYBRID-0166", "entity_ids": ["FAIL-0518", "REQ-0264", "TC-0567", "EXEC-02636", "BUG-0445"]}
+{"query_id": "EVAL-HYBRID-0167", "entity_ids": ["EXEC-02182", "REQ-0045", "TC-0914", "FAIL-0443", "BUG-0236"]}
+{"query_id": "EVAL-HYBRID-0168", "entity_ids": ["FAIL-0617", "REQ-0112", "TC-2024", "EXEC-03143", "BUG-0164"]}
+{"query_id": "EVAL-HYBRID-0169", "entity_ids": ["FAIL-0224", "REQ-0140", "TC-1145", "EXEC-01049", "BUG-0456"]}
+{"query_id": "EVAL-HYBRID-0170", "entity_ids": ["BUG-0271", "REQ-0172", "TC-1833", "EXEC-00904", "FAIL-0196"]}
+{"query_id": "EVAL-HYBRID-0171", "entity_ids": ["FAIL-0617", "REQ-0112", "TC-2024", "EXEC-03143", "BUG-0164"]}
+{"query_id": "EVAL-HYBRID-0172", "entity_ids": ["TS-0005", "REQ-0438", "REQ-0047", "REQ-0100", "REQ-0391", "REQ-0460", "TC-0017", "TC-0048", "TC-0342", "TC-0345", "TC-0430", "TC-0501", "TC-0695", "TC-0772"]}
+{"query_id": "EVAL-HYBRID-0173", "entity_ids": ["EXEC-00966", "REQ-0199", "TC-0753"]}
+{"query_id": "EVAL-HYBRID-0174", "entity_ids": ["BUG-0285", "REQ-0335", "TC-0968", "EXEC-01575", "FAIL-0322"]}
+{"query_id": "EVAL-HYBRID-0175", "entity_ids": ["FAIL-0229", "REQ-0391", "TC-1484", "EXEC-01070"]}
+{"query_id": "EVAL-HYBRID-0176", "entity_ids": ["REQ-0239", "TC-0287", "TC-0433", "TC-0618", "TC-0870", "TC-0978", "BUG-0069"]}
+{"query_id": "EVAL-HYBRID-0177", "entity_ids": ["FAIL-0693", "REQ-0411", "TC-1166", "EXEC-03597"]}
+{"query_id": "EVAL-HYBRID-0178", "entity_ids": ["BUG-0433", "REQ-0320", "TC-0483", "EXEC-00052", "FAIL-0014"]}
+{"query_id": "EVAL-HYBRID-0179", "entity_ids": ["BUG-0100", "REQ-0096", "TC-1641", "EXEC-02931", "FAIL-0570"]}
+{"query_id": "EVAL-HYBRID-0180", "entity_ids": ["TC-0572", "REQ-0196", "EXEC-01842", "FAIL-0378"]}
+{"query_id": "EVAL-HYBRID-0181", "entity_ids": ["TS-0095", "REQ-0156", "REQ-0285", "REQ-0366", "REQ-0027", "REQ-0354", "TC-0063", "TC-0119", "TC-0157", "TC-0266", "TC-0523", "TC-0526", "TC-0578", "TC-0635"]}
+{"query_id": "EVAL-HYBRID-0182", "entity_ids": ["FAIL-0826", "REQ-0325", "TC-1197", "EXEC-04326", "BUG-0330"]}
+{"query_id": "EVAL-HYBRID-0183", "entity_ids": ["REQ-0096", "TC-0762", "TC-0871", "TC-1075", "TC-1641", "TC-1680", "BUG-0100"]}
+{"query_id": "EVAL-HYBRID-0184", "entity_ids": ["FAIL-0095", "REQ-0076", "TC-0195", "EXEC-00416", "BUG-0416"]}
+{"query_id": "EVAL-HYBRID-0185", "entity_ids": ["FAIL-0719", "REQ-0103", "TC-0265", "EXEC-03755"]}
+{"query_id": "EVAL-HYBRID-0186", "entity_ids": ["TS-0032", "REQ-0022", "REQ-0041", "REQ-0260", "REQ-0122", "REQ-0014", "TC-0073", "TC-0234", "TC-0238", "TC-0326", "TC-0416", "TC-0431", "TC-0493", "TC-0500"]}
+{"query_id": "EVAL-HYBRID-0187", "entity_ids": ["FAIL-0655", "REQ-0074", "TC-0662", "EXEC-03411", "BUG-0214"]}
+{"query_id": "EVAL-HYBRID-0188", "entity_ids": ["TS-0070", "REQ-0241", "REQ-0509", "REQ-0065", "REQ-0131", "REQ-0425", "TC-0256", "TC-0363", "TC-0614", "TC-0778", "TC-0824", "TC-0981", "TC-1134", "TC-1149"]}
+{"query_id": "EVAL-HYBRID-0189", "entity_ids": ["TS-0055", "REQ-0118", "REQ-0241", "REQ-0166", "REQ-0451", "REQ-0366", "TC-0079", "TC-0176", "TC-0280", "TC-0297", "TC-0522", "TC-0790", "TC-0913", "TC-0915"]}
+{"query_id": "EVAL-HYBRID-0190", "entity_ids": ["FAIL-0164", "REQ-0410", "TC-0473", "EXEC-00745", "BUG-0343"]}
+{"query_id": "EVAL-HYBRID-0191", "entity_ids": ["FAIL-0390", "REQ-0216", "TC-0641", "EXEC-01890"]}
+{"query_id": "EVAL-HYBRID-0192", "entity_ids": ["BUG-0353", "REQ-0380", "TC-1332", "EXEC-02665", "FAIL-0521"]}
+{"query_id": "EVAL-HYBRID-0193", "entity_ids": ["TS-0004", "REQ-0373", "REQ-0341", "REQ-0419", "REQ-0505", "REQ-0470", "TC-0080", "TC-0136", "TC-0167", "TC-0253", "TC-0264", "TC-0310", "TC-0409", "TC-0568"]}
+{"query_id": "EVAL-HYBRID-0194", "entity_ids": ["EXEC-01359", "REQ-0045", "TC-0081"]}
+{"query_id": "EVAL-HYBRID-0195", "entity_ids": ["BUG-0301", "REQ-0510", "TC-1610", "EXEC-02779", "FAIL-0543"]}
+{"query_id": "EVAL-HYBRID-0196", "entity_ids": ["BUG-0081", "REQ-0070", "TC-0934", "EXEC-00545", "FAIL-0125"]}
+{"query_id": "EVAL-HYBRID-0197", "entity_ids": ["BUG-0251", "REQ-0387", "TC-1272", "EXEC-01527", "FAIL-0315"]}
+{"query_id": "EVAL-HYBRID-0198", "entity_ids": ["TS-0095", "REQ-0156", "REQ-0285", "REQ-0366", "REQ-0027", "REQ-0354", "TC-0063", "TC-0119", "TC-0157", "TC-0266", "TC-0523", "TC-0526", "TC-0578", "TC-0635"]}
+{"query_id": "EVAL-HYBRID-0199", "entity_ids": ["FAIL-0782", "REQ-0192", "TC-1541", "EXEC-04076", "BUG-0220"]}
+{"query_id": "EVAL-HYBRID-0200", "entity_ids": ["FAIL-0028", "REQ-0201", "TC-0257", "EXEC-00160", "BUG-0419"]}
+{"query_id": "EVAL-HYBRID-0201", "entity_ids": ["EXEC-01184", "REQ-0168", "TC-1254"]}
+{"query_id": "EVAL-HYBRID-0202", "entity_ids": ["BUG-0282", "REQ-0511", "TC-1618", "EXEC-02459", "FAIL-0488"]}
+{"query_id": "EVAL-HYBRID-0203", "entity_ids": ["EXEC-01843", "REQ-0140", "TC-0213", "FAIL-0379"]}
+{"query_id": "EVAL-HYBRID-0204", "entity_ids": ["TS-0005", "REQ-0438", "REQ-0047", "REQ-0100", "REQ-0391", "REQ-0460", "TC-0017", "TC-0048", "TC-0342", "TC-0345", "TC-0430", "TC-0501", "TC-0695", "TC-0772"]}
+{"query_id": "EVAL-HYBRID-0205", "entity_ids": ["EXEC-03228", "REQ-0264", "TC-0353"]}
+{"query_id": "EVAL-HYBRID-0206", "entity_ids": ["TC-0815", "REQ-0203", "EXEC-02497", "EXEC-00636", "EXEC-04512", "FAIL-0496", "FAIL-0670", "BUG-0502"]}
+{"query_id": "EVAL-HYBRID-0207", "entity_ids": ["FAIL-0914", "REQ-0325", "TC-1465", "EXEC-04860"]}
+{"query_id": "EVAL-HYBRID-0208", "entity_ids": ["BUG-0224", "REQ-0319", "TC-1552", "EXEC-00678", "FAIL-0148"]}
+{"query_id": "EVAL-HYBRID-0209", "entity_ids": ["TC-0896", "REQ-0426"]}
+{"query_id": "EVAL-HYBRID-0210", "entity_ids": ["REQ-0100", "TC-0017", "TC-0225", "TC-0642", "TC-0670", "TC-1635", "BUG-0382", "BUG-0387"]}
+{"query_id": "EVAL-HYBRID-0211", "entity_ids": ["EXEC-02386", "REQ-0249", "TC-0271", "FAIL-0474"]}
+{"query_id": "EVAL-HYBRID-0212", "entity_ids": ["BUG-0271", "REQ-0172", "TC-1833", "EXEC-00904", "FAIL-0196"]}
+{"query_id": "EVAL-HYBRID-0213", "entity_ids": ["BUG-0090", "REQ-0307", "TC-0977", "EXEC-05142", "FAIL-0964"]}
+{"query_id": "EVAL-HYBRID-0214", "entity_ids": ["REQ-0224", "TC-1492", "TC-1767", "TC-1810"]}
+{"query_id": "EVAL-HYBRID-0215", "entity_ids": ["BUG-0007", "REQ-0303", "TC-0561", "EXEC-00328", "FAIL-0074"]}
+{"query_id": "EVAL-HYBRID-0216", "entity_ids": ["BUG-0031", "REQ-0514", "TC-0658", "EXEC-00071", "FAIL-0018"]}
+{"query_id": "EVAL-HYBRID-0217", "entity_ids": ["FAIL-0115", "REQ-0122", "TC-0339", "EXEC-00509"]}
+{"query_id": "EVAL-HYBRID-0218", "entity_ids": ["BUG-0204", "REQ-0336", "TC-0254", "EXEC-01035", "FAIL-0222"]}
+{"query_id": "EVAL-HYBRID-0219", "entity_ids": ["BUG-0460", "REQ-0223", "TC-0390", "EXEC-02457", "FAIL-0487"]}
+{"query_id": "EVAL-HYBRID-0220", "entity_ids": ["REQ-0007", "TC-0488", "TC-0685", "TC-0883", "TC-1170", "BUG-0156", "BUG-0252", "BUG-0325"]}
+{"query_id": "EVAL-HYBRID-0221", "entity_ids": ["BUG-0100", "REQ-0096", "TC-1641", "EXEC-02931", "FAIL-0570"]}
+{"query_id": "EVAL-HYBRID-0222", "entity_ids": ["BUG-0471", "REQ-0001", "TC-1264", "EXEC-04080", "FAIL-0784"]}
+{"query_id": "EVAL-HYBRID-0223", "entity_ids": ["TC-1140", "REQ-0140", "EXEC-03956", "EXEC-00393", "FAIL-0761", "BUG-0162"]}
+{"query_id": "EVAL-HYBRID-0224", "entity_ids": ["BUG-0128", "REQ-0057", "TC-1745", "EXEC-03508", "FAIL-0672"]}
+{"query_id": "EVAL-HYBRID-0225", "entity_ids": ["FAIL-0095", "REQ-0076", "TC-0195", "EXEC-00416", "BUG-0416"]}
+{"query_id": "EVAL-HYBRID-0226", "entity_ids": ["FAIL-0575", "REQ-0427", "TC-0007", "EXEC-02960"]}
+{"query_id": "EVAL-HYBRID-0227", "entity_ids": ["FAIL-0007", "REQ-0059", "TC-1915", "EXEC-00018", "BUG-0170"]}
+{"query_id": "EVAL-HYBRID-0228", "entity_ids": ["TC-0357", "REQ-0357", "EXEC-00075"]}
+{"query_id": "EVAL-HYBRID-0229", "entity_ids": ["BUG-0239", "REQ-0241", "TC-0790", "EXEC-04497", "FAIL-0854"]}
+{"query_id": "EVAL-HYBRID-0230", "entity_ids": ["BUG-0388", "REQ-0266", "TC-0046", "EXEC-03994", "FAIL-0771"]}
+{"query_id": "EVAL-HYBRID-0231", "entity_ids": ["FAIL-0345", "REQ-0144", "TC-1430", "EXEC-01703", "BUG-0006"]}
+{"query_id": "EVAL-HYBRID-0232", "entity_ids": ["FAIL-0734", "REQ-0457", "TC-2098", "EXEC-03823"]}
+{"query_id": "EVAL-HYBRID-0233", "entity_ids": ["REQ-0204", "TC-0845", "TC-1591", "TC-1616"]}
+{"query_id": "EVAL-HYBRID-0234", "entity_ids": ["EXEC-02802", "REQ-0457", "TC-0517"]}
+{"query_id": "EVAL-HYBRID-0235", "entity_ids": ["TS-0108", "REQ-0363", "REQ-0041", "REQ-0114", "REQ-0300", "REQ-0374", "TC-0188", "TC-0514", "TC-0539", "TC-0548", "TC-0767", "TC-0780", "TC-0905", "TC-0954"]}
+{"query_id": "EVAL-HYBRID-0236", "entity_ids": ["FAIL-0430", "REQ-0109", "TC-1594", "EXEC-02090"]}
+{"query_id": "EVAL-HYBRID-0237", "entity_ids": ["EXEC-00830", "REQ-0295", "TC-0683"]}
+{"query_id": "EVAL-HYBRID-0238", "entity_ids": ["FAIL-0715", "REQ-0441", "TC-1344", "EXEC-03733", "BUG-0465"]}
+{"query_id": "EVAL-HYBRID-0239", "entity_ids": ["BUG-0226", "REQ-0234", "TC-0612", "EXEC-01750", "FAIL-0358"]}
+{"query_id": "EVAL-HYBRID-0240", "entity_ids": ["BUG-0430", "REQ-0193", "TC-1114", "EXEC-00742", "FAIL-0162"]}
+{"query_id": "EVAL-HYBRID-0241", "entity_ids": ["TC-1471", "REQ-0516", "EXEC-03853", "EXEC-00744", "EXEC-02791", "FAIL-0163", "BUG-0078"]}
+{"query_id": "EVAL-HYBRID-0242", "entity_ids": ["EXEC-03742", "REQ-0122", "TC-0339", "FAIL-0716"]}
+{"query_id": "EVAL-HYBRID-0243", "entity_ids": ["TC-0637", "REQ-0314", "EXEC-02797", "EXEC-04182"]}
+{"query_id": "EVAL-HYBRID-0244", "entity_ids": ["TS-0108", "REQ-0363", "REQ-0041", "REQ-0114", "REQ-0300", "REQ-0374", "TC-0188", "TC-0514", "TC-0539", "TC-0548", "TC-0767", "TC-0780", "TC-0905", "TC-0954"]}
+{"query_id": "EVAL-HYBRID-0245", "entity_ids": ["TS-0065", "REQ-0161", "REQ-0351", "REQ-0299", "REQ-0300", "REQ-0029", "TC-0095", "TC-0145", "TC-0178", "TC-0324", "TC-0432", "TC-0549", "TC-0690", "TC-1097"]}
+{"query_id": "EVAL-HYBRID-0246", "entity_ids": ["TS-0012", "REQ-0232", "REQ-0121", "REQ-0292", "REQ-0313", "REQ-0030", "TC-0171", "TC-0335", "TC-0581", "TC-0684", "TC-1019", "TC-1060", "TC-1179", "TC-1185"]}
+{"query_id": "EVAL-HYBRID-0247", "entity_ids": ["FAIL-0031", "REQ-0465", "TC-1122", "EXEC-00172"]}
+{"query_id": "EVAL-HYBRID-0248", "entity_ids": ["REQ-0301", "TC-0192", "TC-0423", "TC-0620", "BUG-0423"]}
+{"query_id": "EVAL-HYBRID-0249", "entity_ids": ["BUG-0251", "REQ-0387", "TC-1272", "EXEC-01527", "FAIL-0315"]}
+{"query_id": "EVAL-HYBRID-0250", "entity_ids": ["BUG-0105", "REQ-0359", "TC-1671", "EXEC-04077", "FAIL-0783"]}
+{"query_id": "EVAL-HYBRID-0251", "entity_ids": ["TS-0026", "REQ-0161", "REQ-0214", "REQ-0131", "REQ-0469", "REQ-0386", "TC-0116", "TC-0124", "TC-0172", "TC-0299", "TC-0377", "TC-0595", "TC-0683", "TC-1031"]}
+{"query_id": "EVAL-HYBRID-0252", "entity_ids": ["BUG-0282", "REQ-0511", "TC-1618", "EXEC-02459", "FAIL-0488"]}
+{"query_id": "EVAL-HYBRID-0253", "entity_ids": ["FAIL-0026", "REQ-0080", "TC-1399", "EXEC-00157"]}
+{"query_id": "EVAL-HYBRID-0254", "entity_ids": ["BUG-0390", "REQ-0151", "TC-1207", "EXEC-00351", "FAIL-0079"]}
+{"query_id": "EVAL-HYBRID-0255", "entity_ids": ["TS-0076", "REQ-0232", "REQ-0472", "REQ-0163", "REQ-0045", "REQ-0238", "TC-0096", "TC-0216", "TC-0220", "TC-0305", "TC-0349", "TC-0356", "TC-0489", "TC-0532"]}
+{"query_id": "EVAL-HYBRID-0256", "entity_ids": ["TS-0015", "REQ-0157", "REQ-0262", "REQ-0292", "REQ-0011", "REQ-0310", "TC-0098", "TC-0112", "TC-0127", "TC-0274", "TC-0381", "TC-0424", "TC-0819", "TC-1011"]}
+{"query_id": "EVAL-HYBRID-0257", "entity_ids": ["BUG-0471", "REQ-0001", "TC-1264", "EXEC-04080", "FAIL-0784"]}
+{"query_id": "EVAL-HYBRID-0258", "entity_ids": ["TC-0327", "REQ-0184", "EXEC-02448", "EXEC-04785", "EXEC-02498", "FAIL-0448"]}
+{"query_id": "EVAL-HYBRID-0259", "entity_ids": ["TS-0004", "REQ-0373", "REQ-0341", "REQ-0419", "REQ-0505", "REQ-0470", "TC-0080", "TC-0136", "TC-0167", "TC-0253", "TC-0264", "TC-0310", "TC-0409", "TC-0568"]}
+{"query_id": "EVAL-HYBRID-0260", "entity_ids": ["TC-0420", "REQ-0437", "EXEC-03386", "EXEC-01700"]}
+{"query_id": "EVAL-HYBRID-0261", "entity_ids": ["REQ-0090", "TC-0783", "TC-0854", "TC-1423", "TC-1525", "BUG-0497"]}
+{"query_id": "EVAL-HYBRID-0262", "entity_ids": ["BUG-0031", "REQ-0514", "TC-0658", "EXEC-00071", "FAIL-0018"]}
+{"query_id": "EVAL-HYBRID-0263", "entity_ids": ["REQ-0345", "TC-0509", "TC-0660", "TC-0924", "TC-0932", "TC-1088", "BUG-0026", "BUG-0136", "BUG-0177"]}
+{"query_id": "EVAL-HYBRID-0264", "entity_ids": ["FAIL-0096", "REQ-0236", "TC-2005", "EXEC-00419", "BUG-0269"]}
+{"query_id": "EVAL-HYBRID-0265", "entity_ids": ["TC-1471", "REQ-0516", "EXEC-03853", "EXEC-00744", "EXEC-02791", "FAIL-0163", "BUG-0078"]}
+{"query_id": "EVAL-HYBRID-0266", "entity_ids": ["REQ-0033", "TC-1415", "TC-1474", "TC-1752", "BUG-0479"]}
+{"query_id": "EVAL-HYBRID-0267", "entity_ids": ["BUG-0285", "REQ-0335", "TC-0968", "EXEC-01575", "FAIL-0322"]}
+{"query_id": "EVAL-HYBRID-0268", "entity_ids": ["BUG-0026", "REQ-0345", "TC-0660", "EXEC-02810", "FAIL-0546"]}
+{"query_id": "EVAL-HYBRID-0269", "entity_ids": ["TC-0934", "REQ-0070", "EXEC-01696", "EXEC-02532", "EXEC-03353", "FAIL-0125", "BUG-0081"]}
+{"query_id": "EVAL-HYBRID-0270", "entity_ids": ["BUG-0345", "REQ-0179", "TC-0344", "EXEC-04884", "FAIL-0918"]}
+{"query_id": "EVAL-HYBRID-0271", "entity_ids": ["TS-0070", "REQ-0241", "REQ-0509", "REQ-0065", "REQ-0131", "REQ-0425", "TC-0256", "TC-0363", "TC-0614", "TC-0778", "TC-0824", "TC-0981", "TC-1134", "TC-1149"]}
+{"query_id": "EVAL-HYBRID-0272", "entity_ids": ["FAIL-0826", "REQ-0325", "TC-1197", "EXEC-04326", "BUG-0330"]}
+{"query_id": "EVAL-HYBRID-0273", "entity_ids": ["TC-0512", "REQ-0093"]}
+{"query_id": "EVAL-HYBRID-0274", "entity_ids": ["EXEC-02882", "REQ-0111", "TC-0556"]}
+{"query_id": "EVAL-HYBRID-0275", "entity_ids": ["REQ-0460", "TC-0734", "TC-0772", "TC-0798", "TC-1099", "TC-1247", "BUG-0306", "BUG-0515"]}
+{"query_id": "EVAL-HYBRID-0276", "entity_ids": ["TC-0934", "REQ-0070", "EXEC-01696", "EXEC-02532", "EXEC-03353", "FAIL-0125", "BUG-0081"]}
+{"query_id": "EVAL-HYBRID-0277", "entity_ids": ["TC-1127", "REQ-0113", "EXEC-01074", "EXEC-01463", "EXEC-03007", "FAIL-0230", "FAIL-0563", "BUG-0219", "BUG-0452"]}
+{"query_id": "EVAL-HYBRID-0278", "entity_ids": ["FAIL-0760", "REQ-0518", "TC-0704", "EXEC-03951"]}
+{"query_id": "EVAL-HYBRID-0279", "entity_ids": ["EXEC-00997", "REQ-0479", "TC-0759"]}
+{"query_id": "EVAL-HYBRID-0280", "entity_ids": ["FAIL-0518", "REQ-0264", "TC-0567", "EXEC-02636", "BUG-0445"]}
+{"query_id": "EVAL-HYBRID-0281", "entity_ids": ["TC-0954", "REQ-0131", "EXEC-02629"]}
+{"query_id": "EVAL-HYBRID-0282", "entity_ids": ["EXEC-00193", "REQ-0158", "TC-1109", "FAIL-0040", "BUG-0361"]}
+{"query_id": "EVAL-HYBRID-0283", "entity_ids": ["BUG-0388", "REQ-0266", "TC-0046", "EXEC-03994", "FAIL-0771"]}
+{"query_id": "EVAL-HYBRID-0284", "entity_ids": ["BUG-0204", "REQ-0336", "TC-0254", "EXEC-01035", "FAIL-0222"]}
+{"query_id": "EVAL-HYBRID-0285", "entity_ids": ["TC-0654", "REQ-0299", "EXEC-02981", "EXEC-04587", "EXEC-01107", "FAIL-0523", "FAIL-0579", "BUG-0212"]}
+{"query_id": "EVAL-HYBRID-0286", "entity_ids": ["REQ-0045", "TC-0081", "TC-0315", "TC-0385", "TC-0489", "TC-0490", "BUG-0236", "BUG-0401", "BUG-0417"]}
+{"query_id": "EVAL-HYBRID-0287", "entity_ids": ["FAIL-0782", "REQ-0192", "TC-1541", "EXEC-04076", "BUG-0220"]}
+{"query_id": "EVAL-HYBRID-0288", "entity_ids": ["FAIL-0559", "REQ-0309", "TC-0697", "EXEC-02872", "BUG-0115"]}
+{"query_id": "EVAL-HYBRID-0289", "entity_ids": ["BUG-0229", "REQ-0293", "TC-1200", "EXEC-00269", "FAIL-0065"]}
+{"query_id": "EVAL-HYBRID-0290", "entity_ids": ["BUG-0105", "REQ-0359", "TC-1671", "EXEC-04077", "FAIL-0783"]}
+{"query_id": "EVAL-HYBRID-0291", "entity_ids": ["BUG-0282", "REQ-0511", "TC-1618", "EXEC-02459", "FAIL-0488"]}
+{"query_id": "EVAL-HYBRID-0292", "entity_ids": ["TC-1557", "REQ-0366", "EXEC-00353"]}
+{"query_id": "EVAL-HYBRID-0293", "entity_ids": ["TC-0419", "REQ-0018", "EXEC-04129", "EXEC-01185"]}
+{"query_id": "EVAL-HYBRID-0294", "entity_ids": ["TC-2070", "REQ-0254", "EXEC-02545", "EXEC-02699"]}
+{"query_id": "EVAL-HYBRID-0295", "entity_ids": ["FAIL-0559", "REQ-0309", "TC-0697", "EXEC-02872", "BUG-0115"]}
+{"query_id": "EVAL-HYBRID-0296", "entity_ids": ["FAIL-0028", "REQ-0201", "TC-0257", "EXEC-00160", "BUG-0419"]}
+{"query_id": "EVAL-HYBRID-0297", "entity_ids": ["TC-1084", "REQ-0243", "EXEC-04931", "EXEC-01080", "EXEC-04534", "FAIL-0471", "BUG-0058"]}
+{"query_id": "EVAL-HYBRID-0298", "entity_ids": ["TS-0055", "REQ-0118", "REQ-0241", "REQ-0166", "REQ-0451", "REQ-0366", "TC-0079", "TC-0176", "TC-0280", "TC-0297", "TC-0522", "TC-0790", "TC-0913", "TC-0915"]}
+{"query_id": "EVAL-HYBRID-0299", "entity_ids": ["FAIL-0760", "REQ-0518", "TC-0704", "EXEC-03951"]}
+{"query_id": "EVAL-HYBRID-0300", "entity_ids": ["BUG-0301", "REQ-0510", "TC-1610", "EXEC-02779", "FAIL-0543"]}

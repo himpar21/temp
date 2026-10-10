@@ -1,0 +1,152 @@
+[
+  {
+    "id": "REQ-001",
+    "title": "User can pair a new device over Wi-Fi",
+    "module": "Wallet > Card Add",
+    "hasTestCoverage": false
+  },
+  {
+    "id": "REQ-002",
+    "title": "User can pair a new device over Bluetooth",
+    "module": "SmartThings > Device Pairing",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-003",
+    "title": "Device list refreshes after successful pairing",
+    "module": "Galaxy Search > Indexing",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-004",
+    "title": "Automation triggers fire within 2 seconds of condition match",
+    "module": "Bixby > Voice Commands",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-005",
+    "title": "User can create a multi-device automation routine",
+    "module": "Living Labs > Feedback",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-006",
+    "title": "Bixby correctly parses device-control voice commands",
+    "module": "Bixby > Voice Commands",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-007",
+    "title": "Bixby routine can be triggered by voice",
+    "module": "Wallet > Card Add",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-008",
+    "title": "User can add a payment card via camera scan",
+    "module": "SmartThings > Automations",
+    "hasTestCoverage": false
+  },
+  {
+    "id": "REQ-009",
+    "title": "User can add a payment card manually",
+    "module": "Bixby > Routines",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-010",
+    "title": "Wallet transaction history loads within 1 second",
+    "module": "Samsung Internet > Bookmarks",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-011",
+    "title": "Galaxy Search indexes new app installs within 5 minutes",
+    "module": "Bixby > Voice Commands",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-012",
+    "title": "Galaxy Search returns results across device and cloud content",
+    "module": "Wallet > Payments",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-013",
+    "title": "Helix syncs settings across signed-in devices",
+    "module": "Samsung Internet > Bookmarks",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-014",
+    "title": "Helix conflict resolution favors most recent change",
+    "module": "Helix > Sync",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-015",
+    "title": "Samsung Internet bookmark syncs across devices",
+    "module": "Bixby > Routines",
+    "hasTestCoverage": false
+  },
+  {
+    "id": "REQ-016",
+    "title": "Samsung Internet bookmark folder can be renamed",
+    "module": "Helix > Sync",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-017",
+    "title": "Living Labs feedback form submits without data loss",
+    "module": "SmartThings > Device Pairing",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-018",
+    "title": "Living Labs survey respects user's opt-out setting",
+    "module": "Helix > Sync",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-019",
+    "title": "SmartThings automation list supports reordering",
+    "module": "Bixby > Voice Commands",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-020",
+    "title": "SmartThings device removal cleans up related automations",
+    "module": "Wallet > Payments",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-021",
+    "title": "Bixby handles interrupted voice commands gracefully",
+    "module": "Helix > Sync",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-022",
+    "title": "Wallet payment retries once on transient network failure",
+    "module": "SmartThings > Device Pairing",
+    "hasTestCoverage": false
+  },
+  {
+    "id": "REQ-023",
+    "title": "Galaxy Search respects content permission scopes",
+    "module": "Samsung Internet > Bookmarks",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-024",
+    "title": "Helix sync backs off correctly under rate limiting",
+    "module": "Bixby > Routines",
+    "hasTestCoverage": true
+  },
+  {
+    "id": "REQ-025",
+    "title": "Samsung Internet import from external browser succeeds",
+    "module": "SmartThings > Automations",
+    "hasTestCoverage": true
+  }
+]

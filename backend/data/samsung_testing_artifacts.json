@@ -1,0 +1,138 @@
+[
+  {
+    "chunk_id": "chunk-tc-display-001",
+    "artifact_id": "TC-DISPLAY-001",
+    "artifact_type": "test_case",
+    "title": "Galaxy foldable hinge endurance and inner display validation",
+    "content": "Fold and unfold the Galaxy device 200000 times at room temperature. Verify hinge motion remains smooth and the inner AMOLED display has no dead pixels, crease growth, touch dead zones, or flicker after the endurance cycle.",
+    "metadata": {"project": "Galaxy Foldable", "module": "Display", "priority": "P0", "status": "passed", "source": "Samsung Test Manager"}
+  },
+  {
+    "chunk_id": "chunk-req-wifi-001",
+    "artifact_id": "REQ-CONN-204",
+    "artifact_type": "requirement",
+    "title": "WiFi 6 reconnection after airplane mode",
+    "content": "A Galaxy phone shall reconnect to the previously trusted WiFi 6 access point within five seconds after airplane mode is disabled, without asking for the saved password again.",
+    "metadata": {"project": "One UI Connectivity", "module": "WiFi", "priority": "P1", "status": "approved", "source": "Confluence"}
+  },
+  {
+    "chunk_id": "chunk-defect-bt-001",
+    "artifact_id": "DEF-BT-317",
+    "artifact_type": "defect",
+    "title": "Galaxy Buds disconnect after screen lock",
+    "content": "Galaxy Buds2 Pro intermittently disconnect over Bluetooth about thirty seconds after the phone screen locks. The issue reproduces on One UI power-saving mode and audio resumes only after toggling Bluetooth.",
+    "metadata": {"project": "One UI Connectivity", "module": "Bluetooth", "priority": "P1", "status": "open", "source": "Jira"}
+  },
+  {
+    "chunk_id": "chunk-log-camera-001",
+    "artifact_id": "LOG-CAM-042",
+    "artifact_type": "execution_log",
+    "title": "Camera crash during portrait burst under memory pressure",
+    "content": "The Camera application terminated with an out-of-memory error after capturing 24 portrait photos in burst mode while eight background applications were active. Device temperature was 41 C and available memory fell below 180 MB.",
+    "metadata": {"project": "Galaxy Camera", "module": "Portrait Mode", "priority": "P0", "status": "failed", "source": "Device Farm"}
+  },
+  {
+    "chunk_id": "chunk-report-power-001",
+    "artifact_id": "REPORT-BATT-088",
+    "artifact_type": "test_report",
+    "title": "Overnight standby power regression",
+    "content": "The Exynos test device lost 12 percent power during an eight-hour idle run, exceeding the 5 percent acceptance limit. Telemetry attributes most wakeups to background location synchronization and the SmartThings service.",
+    "metadata": {"project": "Galaxy Performance", "module": "Power", "priority": "P1", "status": "regression", "source": "Test Report"}
+  },
+  {
+    "chunk_id": "chunk-tc-ota-001",
+    "artifact_id": "TC-OTA-112",
+    "artifact_type": "test_case",
+    "title": "Interrupted OTA update rollback",
+    "content": "Interrupt the One UI OTA package installation at 52 percent by forcing a restart. Verify the Galaxy device boots from the previous system slot, preserves user data, reports the update failure, and can retry the signed package.",
+    "metadata": {"project": "One UI Platform", "module": "OTA Update", "priority": "P0", "status": "passed", "source": "Samsung Test Manager"}
+  },
+  {
+    "chunk_id": "chunk-req-security-001",
+    "artifact_id": "REQ-SEC-055",
+    "artifact_type": "requirement",
+    "title": "Biometric lockout after failed fingerprint attempts",
+    "content": "Samsung Knox shall disable fingerprint authentication after five consecutive failed scans and require the device PIN. The lockout event must be recorded in the security audit log.",
+    "metadata": {"project": "Samsung Knox", "module": "Biometrics", "priority": "P0", "status": "approved", "source": "Requirements Portal"}
+  },
+  {
+    "chunk_id": "chunk-defect-display-002",
+    "artifact_id": "DEF-DISPLAY-221",
+    "artifact_type": "defect",
+    "title": "Adaptive refresh display flicker at low brightness",
+    "content": "The AMOLED panel visibly flickers when adaptive 120 Hz refresh is enabled and brightness is below 10 percent. Reproduction is strongest on a gray screen when refresh rate switches between 24 Hz and 120 Hz.",
+    "metadata": {"project": "Galaxy Display", "module": "Adaptive Refresh", "priority": "P1", "status": "in_progress", "source": "Jira"}
+  },
+  {
+    "chunk_id": "chunk-log-performance-001",
+    "artifact_id": "LOG-PERF-140",
+    "artifact_type": "execution_log",
+    "title": "Cold application launch latency after restart",
+    "content": "After restarting the device, cold launch of Samsung Notes took 4.8 seconds compared with the 2.0 second target. Trace data shows database migration blocked the main thread for 2.3 seconds.",
+    "metadata": {"project": "One UI Performance", "module": "App Launch", "priority": "P2", "status": "failed", "source": "Performance Lab"}
+  },
+  {
+    "chunk_id": "chunk-tc-smartthings-001",
+    "artifact_id": "TC-IOT-073",
+    "artifact_type": "test_case",
+    "title": "SmartThings offline hub recovery",
+    "content": "Disconnect the SmartThings Station from the network for two minutes, restore connectivity, and verify registered Matter lights and sensors return online within 30 seconds without duplicate devices or lost automation routines.",
+    "metadata": {"project": "SmartThings", "module": "Hub Recovery", "priority": "P1", "status": "passed", "source": "Samsung Test Manager"}
+  },
+  {
+    "chunk_id": "chunk-req-smartthings-automation-001",
+    "artifact_id": "REQ-IOT-102",
+    "artifact_type": "requirement",
+    "title": "SmartThings automation execution reliability",
+    "content": "SmartThings routines shall execute all configured device actions within five seconds of a trigger and shall record a diagnostic event when an action fails.",
+    "metadata": {"project": "SmartThings", "module": "Automation", "priority": "P0", "status": "approved", "source": "Requirements Portal"}
+  },
+  {
+    "chunk_id": "chunk-tc-smartthings-automation-001",
+    "artifact_id": "TC-IOT-205",
+    "artifact_type": "test_case",
+    "title": "SmartThings multi-device automation validation",
+    "content": "Trigger a SmartThings arrival routine controlling Matter lights, a thermostat, and a smart lock. Verify each automation action completes once and in the configured order.",
+    "metadata": {"project": "SmartThings", "module": "Automation", "priority": "P0", "status": "failed", "source": "Samsung Test Manager"}
+  },
+  {
+    "chunk_id": "chunk-tc-smartthings-automation-002",
+    "artifact_id": "TC-IOT-207",
+    "artifact_type": "test_case",
+    "title": "SmartThings delayed trigger recovery",
+    "content": "Delay cloud event delivery for 30 seconds and verify the SmartThings automation executes after reconnection without duplicating device actions.",
+    "metadata": {"project": "SmartThings", "module": "Automation", "priority": "P1", "status": "failed", "source": "Samsung Test Manager"}
+  },
+  {
+    "chunk_id": "chunk-defect-smartthings-automation-001",
+    "artifact_id": "DEF-IOT-309",
+    "artifact_type": "defect",
+    "title": "SmartThings automation skips second device action",
+    "content": "An arrival routine intermittently skips its second Matter device action when three or more actions are configured.",
+    "metadata": {"project": "SmartThings", "module": "Automation", "priority": "P0", "status": "open", "source": "Jira"}
+  },
+  {
+    "chunk_id": "chunk-defect-smartthings-automation-002",
+    "artifact_id": "DEF-IOT-310",
+    "artifact_type": "defect",
+    "title": "SmartThings routine executes twice after reconnection",
+    "content": "A delayed cloud trigger is replayed twice after network recovery, causing duplicate automation actions.",
+    "metadata": {"project": "SmartThings", "module": "Automation", "priority": "P1", "status": "in_progress", "source": "Jira"}
+  },
+  {
+    "chunk_id": "chunk-defect-smartthings-automation-003",
+    "artifact_id": "DEF-IOT-325",
+    "artifact_type": "defect",
+    "title": "Automation history omits failed device action",
+    "content": "The SmartThings routine history does not display a failed device action even though the diagnostic service records the failure.",
+    "metadata": {"project": "SmartThings", "module": "Automation", "priority": "P2", "status": "resolved", "source": "Jira"}
+  },
+  {
+    "chunk_id": "chunk-report-smartthings-automation-001",
+    "artifact_id": "REPORT-IOT-523",
+    "artifact_type": "test_report",
+    "title": "SmartThings automation stability regression",
+    "content": "Automation passed 82 percent of 500 executions. Fifteen failures skipped a device action and duplicate execution occurred in nine network recovery runs.",
+    "metadata": {"project": "SmartThings", "module": "Automation", "priority": "P0", "status": "regression", "source": "Test Report"}
+  }
+]

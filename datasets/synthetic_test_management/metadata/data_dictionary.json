@@ -1,0 +1,296 @@
+{
+  "tables": {
+    "applications": {
+      "description": "Top-level product applications in the enterprise ecosystem.",
+      "primary_key": "application_id",
+      "fields": {
+        "application_id": "Unique identifier (APP-NNN)",
+        "name": "Application name (e.g. SmartHome)",
+        "domain": "Product domain (IoT, FinTech, etc.)",
+        "version": "Current application version",
+        "status": "Active | Deprecated",
+        "owner_team": "Responsible QA team",
+        "created_date": "Creation date (YYYY-MM-DD)",
+        "description": "Short application description"
+      }
+    },
+    "solutions": {
+      "description": "Sub-components or service solutions within applications.",
+      "primary_key": "solution_id",
+      "foreign_keys": {"application_id": "applications.application_id"},
+      "fields": {
+        "solution_id": "Unique identifier (SOL-NNN)",
+        "name": "Solution name (e.g. Auth Gateway)",
+        "application_id": "Parent application reference",
+        "component": "Technical component name",
+        "version": "Solution version",
+        "status": "Stable | Beta | Deprecated",
+        "description": "Solution description",
+        "created_date": "Creation date"
+      }
+    },
+    "environments": {
+      "description": "Physical or virtual test environments.",
+      "primary_key": "environment_id",
+      "fields": {
+        "environment_id": "Unique identifier (ENV-NNN)",
+        "name": "Environment name (e.g. Mobile Lab)",
+        "device_type": "Mobile | Wearable | Hub | XR Headset | Cloud Node",
+        "os_version": "Operating system version",
+        "network_type": "WiFi-6 | LTE | 5G | Bluetooth 5.3 | etc.",
+        "location": "Physical or cloud location",
+        "configuration": "Hardware specification string",
+        "status": "Available | Busy | Maintenance"
+      }
+    },
+    "releases": {
+      "description": "Product release milestones.",
+      "primary_key": "release_id",
+      "fields": {
+        "release_id": "Unique identifier (REL-NNN)",
+        "name": "Release name",
+        "version": "Semantic version (X.Y.Z)",
+        "status": "Released | In Progress",
+        "release_date": "Planned/actual release date",
+        "description": "Release description"
+      }
+    },
+    "engineers": {
+      "description": "QA engineers and testers.",
+      "primary_key": "engineer_id",
+      "fields": {
+        "engineer_id": "Unique identifier (ENG-NNN)",
+        "name": "Full name (synthetic)",
+        "role": "QA Engineer | Test Lead | etc.",
+        "team": "Assigned QA team",
+        "email": "Synthetic email address",
+        "active": "true | false",
+        "joined_date": "Date joined"
+      }
+    },
+    "requirements": {
+      "description": "Software requirements across all applications.",
+      "primary_key": "requirement_id",
+      "foreign_keys": {
+        "application_id": "applications.application_id",
+        "solution_id": "solutions.solution_id"
+      },
+      "fields": {
+        "requirement_id": "Unique identifier (REQ-NNNN)",
+        "application_id": "Parent application",
+        "solution_id": "Related solution",
+        "title": "Requirement title",
+        "description": "Full requirement statement",
+        "requirement_type": "Functional | Performance | Security | etc.",
+        "priority": "Critical | High | Medium | Low",
+        "severity": "Critical | Major | Minor | Trivial",
+        "version": "Requirement version",
+        "status": "Approved | Draft | Deprecated",
+        "created_date": "Creation date",
+        "updated_date": "Last update date",
+        "source_document": "Source SRS document reference",
+        "feature": "Feature name this requirement covers",
+        "component": "Technical component"
+      }
+    },
+    "test_suites": {
+      "description": "Collections of related test cases.",
+      "primary_key": "suite_id",
+      "foreign_keys": {
+        "application_id": "applications.application_id",
+        "release_id": "releases.release_id"
+      },
+      "fields": {
+        "suite_id": "Unique identifier (TS-NNNN)",
+        "application_id": "Parent application",
+        "release_id": "Target release",
+        "name": "Suite name",
+        "description": "Suite description",
+        "suite_type": "Regression | Smoke | Performance | Security | etc.",
+        "priority": "Critical | High | Medium | Low",
+        "created_date": "Creation date",
+        "status": "Active | Archived | Draft"
+      }
+    },
+    "test_cases": {
+      "description": "Individual test case specifications.",
+      "primary_key": "test_case_id",
+      "foreign_keys": {
+        "requirement_id": "requirements.requirement_id",
+        "suite_id": "test_suites.suite_id",
+        "application_id": "applications.application_id",
+        "environment_id": "environments.environment_id",
+        "created_by": "engineers.engineer_id"
+      },
+      "fields": {
+        "test_case_id": "Unique identifier (TC-NNNN)",
+        "requirement_id": "Implemented requirement",
+        "suite_id": "Parent test suite",
+        "application_id": "Target application",
+        "title": "Short test case title",
+        "description": "Full test case description",
+        "objective": "Test objective statement",
+        "preconditions": "Required preconditions",
+        "priority": "Critical | High | Medium | Low",
+        "severity": "Critical | Major | Minor | Trivial",
+        "test_type": "Functional | Regression | Smoke | Performance | Security | etc.",
+        "automation_status": "Automated | Manual | Semi-Automated",
+        "environment_id": "Target environment",
+        "estimated_duration": "Estimated duration in seconds",
+        "created_by": "Creating engineer ID",
+        "status": "Active | Deprecated | Draft"
+      }
+    },
+    "test_steps": {
+      "description": "Procedural steps for each test case.",
+      "primary_key": "test_step_id",
+      "foreign_keys": {"test_case_id": "test_cases.test_case_id"},
+      "fields": {
+        "test_step_id": "Unique identifier (STEP-NNNNN)",
+        "test_case_id": "Parent test case",
+        "step_number": "Step sequence number",
+        "action": "Action to perform",
+        "expected_result": "Expected outcome",
+        "input_data": "Input data for this step"
+      }
+    },
+    "test_runs": {
+      "description": "Regression cycles grouping multiple test executions.",
+      "primary_key": "run_id",
+      "foreign_keys": {
+        "release_id": "releases.release_id",
+        "environment_id": "environments.environment_id"
+      },
+      "fields": {
+        "run_id": "Unique identifier (RUN-NNN)",
+        "name": "Regression cycle name",
+        "release_id": "Target release",
+        "build_version": "Build under test",
+        "environment_id": "Primary test environment",
+        "status": "Completed | In Progress | Aborted",
+        "start_time": "Run start timestamp",
+        "total_tests": "Total test cases executed",
+        "passed": "Number of passed tests",
+        "failed": "Number of failed tests",
+        "blocked": "Number of blocked tests",
+        "skipped": "Number of skipped tests",
+        "pass_rate": "Pass percentage (2dp)",
+        "end_time": "Run end timestamp"
+      }
+    },
+    "test_executions": {
+      "description": "Individual test case execution records.",
+      "primary_key": "execution_id",
+      "foreign_keys": {
+        "test_case_id": "test_cases.test_case_id",
+        "test_run_id": "test_runs.run_id",
+        "environment_id": "environments.environment_id",
+        "failure_id": "failures.failure_id (nullable)",
+        "defect_id": "defects.defect_id (nullable)"
+      },
+      "fields": {
+        "execution_id": "Unique identifier (EXEC-NNNNN)",
+        "test_case_id": "Executed test case",
+        "test_run_id": "Parent regression run",
+        "environment_id": "Execution environment",
+        "build_version": "Build version tested",
+        "execution_timestamp": "Execution start datetime",
+        "status": "PASS | FAIL | BLOCKED | SKIPPED | NOT_RUN",
+        "duration_ms": "Execution duration in milliseconds",
+        "executed_by": "Engineer email",
+        "failure_id": "Linked failure record (if FAIL)",
+        "defect_id": "Linked defect (if raised)"
+      }
+    },
+    "failures": {
+      "description": "Failure records from failed test executions.",
+      "primary_key": "failure_id",
+      "foreign_keys": {
+        "execution_id": "test_executions.execution_id (nullable)",
+        "test_case_id": "test_cases.test_case_id",
+        "application_id": "applications.application_id",
+        "environment": "environments.environment_id"
+      },
+      "fields": {
+        "failure_id": "Unique identifier (FAIL-NNNN)",
+        "execution_id": "Originating execution",
+        "test_case_id": "Failed test case",
+        "application_id": "Affected application",
+        "component": "Affected component",
+        "failure_type": "Timeout | Crash | Assertion Failure | etc.",
+        "severity": "Critical | Major | Minor | Trivial",
+        "error_message": "Error message text",
+        "observed_behavior": "What actually happened",
+        "expected_behavior": "What should have happened",
+        "stack_trace": "Abbreviated stack trace",
+        "log_reference": "Log bundle reference ID",
+        "environment": "Environment where failure occurred",
+        "build_version": "Build version at time of failure",
+        "timestamp": "Failure timestamp",
+        "root_cause": "Root cause analysis text",
+        "resolution_status": "Open | In Progress | Resolved | Wont Fix"
+      }
+    },
+    "defects": {
+      "description": "Defect/bug records linked to failures.",
+      "primary_key": "defect_id",
+      "foreign_keys": {
+        "application_id": "applications.application_id",
+        "assigned_engineer": "engineers.engineer_id",
+        "affected_requirement": "requirements.requirement_id",
+        "related_test_case": "test_cases.test_case_id",
+        "related_failure": "failures.failure_id"
+      },
+      "fields": {
+        "defect_id": "Unique identifier (BUG-NNNN)",
+        "title": "Short defect title",
+        "description": "Full defect description",
+        "severity": "Critical | Major | Minor | Trivial",
+        "priority": "Critical | High | Medium | Low",
+        "status": "OPEN | ASSIGNED | IN_PROGRESS | FIXED | VERIFIED | CLOSED | REOPENED",
+        "component": "Affected component",
+        "application_id": "Affected application",
+        "root_cause": "Root cause analysis",
+        "reported_date": "Date reported",
+        "resolved_date": "Date resolved (nullable)",
+        "assigned_engineer": "Assigned engineer ID",
+        "affected_requirement": "Requirement impacted",
+        "related_test_case": "Test case that exposed the defect",
+        "related_failure": "Failure report that triggered this defect",
+        "resolution": "Resolution description (nullable)"
+      }
+    },
+    "assignments": {
+      "description": "Engineer assignments to test cases within runs.",
+      "primary_key": "assignment_id",
+      "foreign_keys": {
+        "test_case_id": "test_cases.test_case_id",
+        "run_id": "test_runs.run_id",
+        "engineer_id": "engineers.engineer_id"
+      }
+    },
+    "historical_failures": {
+      "description": "Historical failure recurrence records for trend analysis.",
+      "primary_key": "hist_failure_id",
+      "foreign_keys": {
+        "original_failure": "failures.failure_id",
+        "test_case_id": "test_cases.test_case_id",
+        "application_id": "applications.application_id",
+        "environment": "environments.environment_id"
+      }
+    }
+  },
+  "graph": {
+    "nodes": {
+      "node_types": ["APPLICATION","SOLUTION","REQUIREMENT","TEST_SUITE","TEST_CASE",
+                     "TEST_STEP","TEST_RUN","TEST_EXECUTION","FAILURE","DEFECT",
+                     "ENGINEER","ENVIRONMENT","RELEASE","COMPONENT"]
+    },
+    "relationships": {
+      "relationship_types": ["BELONGS_TO","IMPLEMENTS","COVERS","CONTAINS","EXECUTED_IN",
+                             "EXECUTED_DURING","PRODUCED","CAUSED_BY","LINKED_TO","AFFECTS",
+                             "ASSIGNED_TO","FIXED_BY","VERIFIED_BY","DEPENDS_ON","RELATED_TO",
+                             "BLOCKS","REPRODUCES","OCCURRED_IN","PART_OF","HAS_EXECUTION"]
+    }
+  }
+}

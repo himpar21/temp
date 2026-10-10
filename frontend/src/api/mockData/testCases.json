@@ -1,0 +1,3558 @@
+[
+  {
+    "id": "TC-0001",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-01T08:42:11.892Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0002",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-10T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0003",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0004",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-12T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0005",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-28T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0006",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-08T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0007",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-30T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0008",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-06T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0009",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-17T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0010",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-17T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0011",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-23T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0012",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-18T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0013",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-23T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0014",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 14",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-14T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0015",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 15",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-15T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0016",
+    "requirementId": "REQ-002",
+    "module": "SmartThings > Device Pairing",
+    "description": "User can pair a new device over Bluetooth — variation 16",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can pair a new device over Bluetooth\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-15T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0017",
+    "requirementId": "REQ-003",
+    "module": "Galaxy Search > Indexing",
+    "description": "Device list refreshes after successful pairing — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Device list refreshes after successful pairing\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-20T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0018",
+    "requirementId": "REQ-003",
+    "module": "Galaxy Search > Indexing",
+    "description": "Device list refreshes after successful pairing — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Device list refreshes after successful pairing\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-22T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0019",
+    "requirementId": "REQ-003",
+    "module": "Galaxy Search > Indexing",
+    "description": "Device list refreshes after successful pairing — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Device list refreshes after successful pairing\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-29T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0020",
+    "requirementId": "REQ-003",
+    "module": "Galaxy Search > Indexing",
+    "description": "Device list refreshes after successful pairing — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Device list refreshes after successful pairing\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-14T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0021",
+    "requirementId": "REQ-003",
+    "module": "Galaxy Search > Indexing",
+    "description": "Device list refreshes after successful pairing — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Device list refreshes after successful pairing\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-26T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0022",
+    "requirementId": "REQ-003",
+    "module": "Galaxy Search > Indexing",
+    "description": "Device list refreshes after successful pairing — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Device list refreshes after successful pairing\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-05T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0023",
+    "requirementId": "REQ-003",
+    "module": "Galaxy Search > Indexing",
+    "description": "Device list refreshes after successful pairing — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Device list refreshes after successful pairing\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-03T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0024",
+    "requirementId": "REQ-003",
+    "module": "Galaxy Search > Indexing",
+    "description": "Device list refreshes after successful pairing — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Device list refreshes after successful pairing\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Not Run",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0025",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0026",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0027",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-16T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0028",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-25T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0029",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0030",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-10T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0031",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0032",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Not Run",
+    "lastRunAt": "2026-08-30T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0033",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-07T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0034",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-18T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0035",
+    "requirementId": "REQ-004",
+    "module": "Bixby > Voice Commands",
+    "description": "Automation triggers fire within 2 seconds of condition match — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Automation triggers fire within 2 seconds of condition match\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0036",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-25T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0037",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-26T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0038",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-09-14T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0039",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-10T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0040",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-09T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0041",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0042",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-02T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0043",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-17T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0044",
+    "requirementId": "REQ-005",
+    "module": "Living Labs > Feedback",
+    "description": "User can create a multi-device automation routine — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can create a multi-device automation routine\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0045",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-31T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0046",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-02T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0047",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0048",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-29T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0049",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-30T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0050",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0051",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-01T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0052",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-09T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0053",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-09-06T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0054",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0055",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0056",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-19T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0057",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-31T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0058",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 14",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-02T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0059",
+    "requirementId": "REQ-006",
+    "module": "Bixby > Voice Commands",
+    "description": "Bixby correctly parses device-control voice commands — variation 15",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby correctly parses device-control voice commands\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-03T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0060",
+    "requirementId": "REQ-007",
+    "module": "Wallet > Card Add",
+    "description": "Bixby routine can be triggered by voice — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby routine can be triggered by voice\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-30T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0061",
+    "requirementId": "REQ-007",
+    "module": "Wallet > Card Add",
+    "description": "Bixby routine can be triggered by voice — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby routine can be triggered by voice\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0062",
+    "requirementId": "REQ-007",
+    "module": "Wallet > Card Add",
+    "description": "Bixby routine can be triggered by voice — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby routine can be triggered by voice\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-10T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0063",
+    "requirementId": "REQ-007",
+    "module": "Wallet > Card Add",
+    "description": "Bixby routine can be triggered by voice — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby routine can be triggered by voice\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-31T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0064",
+    "requirementId": "REQ-007",
+    "module": "Wallet > Card Add",
+    "description": "Bixby routine can be triggered by voice — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby routine can be triggered by voice\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-12T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0065",
+    "requirementId": "REQ-007",
+    "module": "Wallet > Card Add",
+    "description": "Bixby routine can be triggered by voice — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby routine can be triggered by voice\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0066",
+    "requirementId": "REQ-007",
+    "module": "Wallet > Card Add",
+    "description": "Bixby routine can be triggered by voice — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby routine can be triggered by voice\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-20T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0067",
+    "requirementId": "REQ-007",
+    "module": "Wallet > Card Add",
+    "description": "Bixby routine can be triggered by voice — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby routine can be triggered by voice\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-26T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0068",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-18T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0069",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-08T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0070",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-16T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0071",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0072",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0073",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-10T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0074",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-18T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0075",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0076",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-14T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0077",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-22T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0078",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-01T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0079",
+    "requirementId": "REQ-009",
+    "module": "Bixby > Routines",
+    "description": "User can add a payment card manually — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"User can add a payment card manually\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-06T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0080",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0081",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-03T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0082",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0083",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-19T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0084",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-13T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0085",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-25T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0086",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0087",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-18T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0088",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-08T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0089",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-26T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0090",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-01T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0091",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-12T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0092",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-11T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0093",
+    "requirementId": "REQ-010",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Wallet transaction history loads within 1 second — variation 14",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Wallet transaction history loads within 1 second\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-29T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0094",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-22T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0095",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-09T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0096",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-16T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0097",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-08T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0098",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-10T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0099",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Not Run",
+    "lastRunAt": "2026-08-31T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0100",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-08T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0101",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-05T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0102",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-14T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0103",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0104",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0105",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-19T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0106",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0107",
+    "requirementId": "REQ-011",
+    "module": "Bixby > Voice Commands",
+    "description": "Galaxy Search indexes new app installs within 5 minutes — variation 14",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search indexes new app installs within 5 minutes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0108",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0109",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-14T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0110",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-31T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0111",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-07T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0112",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-21T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0113",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-21T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0114",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-16T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0115",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-20T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0116",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-01T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0117",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0118",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-07T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0119",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-18T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0120",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Not Run",
+    "lastRunAt": "2026-09-06T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0121",
+    "requirementId": "REQ-012",
+    "module": "Wallet > Payments",
+    "description": "Galaxy Search returns results across device and cloud content — variation 14",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search returns results across device and cloud content\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0122",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-16T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0123",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-22T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0124",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0125",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0126",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-16T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0127",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-20T08:42:11.901Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0128",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-26T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0129",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-06T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0130",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-17T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0131",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-16T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0132",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-02T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0133",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-26T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0134",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-26T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0135",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 14",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-06T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0136",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 15",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-15T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0137",
+    "requirementId": "REQ-013",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Helix syncs settings across signed-in devices — variation 16",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix syncs settings across signed-in devices\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.901Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0138",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-07T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0139",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-11T08:42:11.901Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0140",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-21T08:42:11.901Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0141",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-19T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0142",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Not Run",
+    "lastRunAt": "2026-09-18T08:42:11.901Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0143",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0144",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-23T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0145",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-20T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0146",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-30T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0147",
+    "requirementId": "REQ-014",
+    "module": "Helix > Sync",
+    "description": "Helix conflict resolution favors most recent change — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix conflict resolution favors most recent change\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-21T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0148",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-30T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0149",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-09-19T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0150",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-02T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0151",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-17T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0152",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-02T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0153",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-21T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0154",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-25T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0155",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-18T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0156",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-19T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0157",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0158",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0159",
+    "requirementId": "REQ-016",
+    "module": "Helix > Sync",
+    "description": "Samsung Internet bookmark folder can be renamed — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet bookmark folder can be renamed\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0160",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-09-07T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0161",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-30T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0162",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-11T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0163",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-08T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0164",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-10T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0165",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0166",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0167",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-05T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0168",
+    "requirementId": "REQ-017",
+    "module": "SmartThings > Device Pairing",
+    "description": "Living Labs feedback form submits without data loss — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs feedback form submits without data loss\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-14T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0169",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-21T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0170",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-17T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0171",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-22T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0172",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-07T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0173",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-09-12T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0174",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-07T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0175",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-01T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0176",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-28T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0177",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-23T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0178",
+    "requirementId": "REQ-018",
+    "module": "Helix > Sync",
+    "description": "Living Labs survey respects user's opt-out setting — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Living Labs survey respects user's opt-out setting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0179",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-14T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0180",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-03T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0181",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0182",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0183",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-02T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0184",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-23T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0185",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-22T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0186",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0187",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-01T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0188",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-01T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0189",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-30T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0190",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-01T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0191",
+    "requirementId": "REQ-019",
+    "module": "Bixby > Voice Commands",
+    "description": "SmartThings automation list supports reordering — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings automation list supports reordering\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-25T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0192",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-09T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0193",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0194",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0195",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-29T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0196",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-12T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0197",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-06T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0198",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-17T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0199",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-01T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0200",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-31T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0201",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-31T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0202",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-22T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0203",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-25T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0204",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-05T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0205",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 14",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0206",
+    "requirementId": "REQ-020",
+    "module": "Wallet > Payments",
+    "description": "SmartThings device removal cleans up related automations — variation 15",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"SmartThings device removal cleans up related automations\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0207",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-09-16T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0208",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-25T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0209",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-20T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0210",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-09-08T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0211",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-27T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0212",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0213",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0214",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0215",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-22T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0216",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0217",
+    "requirementId": "REQ-021",
+    "module": "Helix > Sync",
+    "description": "Bixby handles interrupted voice commands gracefully — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Bixby handles interrupted voice commands gracefully\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-31T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0218",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-11T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0219",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-31T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0220",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-30T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0221",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0222",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-14T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0223",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-26T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0224",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-08T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0225",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-03T08:42:11.902Z",
+    "environment": "DA"
+  },
+  {
+    "id": "TC-0226",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0227",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-26T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0228",
+    "requirementId": "REQ-023",
+    "module": "Samsung Internet > Bookmarks",
+    "description": "Galaxy Search respects content permission scopes — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Galaxy Search respects content permission scopes\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-02T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0229",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-04T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0230",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-09-13T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0231",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-23T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0232",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-31T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0233",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-06T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0234",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-28T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0235",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-12T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0236",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0237",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-08-26T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0238",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-22T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0239",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0240",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 12",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-24T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0241",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 13",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-09T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0242",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 14",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-26T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0243",
+    "requirementId": "REQ-024",
+    "module": "Bixby > Routines",
+    "description": "Helix sync backs off correctly under rate limiting — variation 15",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Helix sync backs off correctly under rate limiting\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-29T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0244",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 1",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-06T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0245",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 2",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-12T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0246",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 3",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-05T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0247",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 4",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-27T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0248",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 5",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Fail",
+    "lastRunAt": "2026-09-16T08:42:11.902Z",
+    "environment": "Watch"
+  },
+  {
+    "id": "TC-0249",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 6",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Blocked",
+    "lastRunAt": "2026-08-29T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0250",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 7",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-13T08:42:11.902Z",
+    "environment": "Hub"
+  },
+  {
+    "id": "TC-0251",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 8",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-09T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0252",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 9",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-28T08:42:11.902Z",
+    "environment": "Mobile"
+  },
+  {
+    "id": "TC-0253",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 10",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-09-08T08:42:11.902Z",
+    "environment": "Infra"
+  },
+  {
+    "id": "TC-0254",
+    "requirementId": "REQ-025",
+    "module": "SmartThings > Automations",
+    "description": "Samsung Internet import from external browser succeeds — variation 11",
+    "steps": [
+      "Set up the test environment and preconditions",
+      "Perform the action described in \"Samsung Internet import from external browser succeeds\"",
+      "Verify the expected outcome and capture logs"
+    ],
+    "status": "Pass",
+    "lastRunAt": "2026-08-23T08:42:11.902Z",
+    "environment": "Watch"
+  }
+]

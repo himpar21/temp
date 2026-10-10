@@ -1,0 +1,13 @@
+run_id,name,release_id,build_version,environment_id,status,start_time,total_tests,passed,failed,blocked,skipped,pass_rate,end_time
+RUN-001,Regression Cycle 1 — Build 4.1.8,REL-002,4.1.8,ENV-007,Completed,2023-01-29 14:32:39,421,229,89,39,64,54.39,2024-09-20 15:01:45
+RUN-002,Regression Cycle 2 — Build 4.2.1,REL-003,4.2.1,ENV-002,Completed,2023-11-24 17:46:35,448,250,85,46,67,55.80,2024-04-12 17:18:03
+RUN-003,Regression Cycle 3 — Build 4.3.2,REL-004,4.3.2,ENV-001,Completed,2023-05-03 07:51:57,436,244,76,49,67,55.96,2024-05-30 12:31:31
+RUN-004,Regression Cycle 4 — Build 5.0.7,REL-005,5.0.7,ENV-010,Completed,2023-08-27 11:10:08,438,228,87,55,68,52.05,2024-04-11 17:52:30
+RUN-005,Regression Cycle 5 — Build 5.1.6,REL-006,5.1.6,ENV-009,Completed,2023-06-22 04:47:39,425,229,71,57,68,53.88,2024-01-06 22:18:20
+RUN-006,Regression Cycle 6 — Build 5.2.1,REL-007,5.2.1,ENV-001,Aborted,2023-05-09 21:58:00,434,235,80,39,80,54.15,2024-10-21 00:40:56
+RUN-007,Regression Cycle 7 — Build 5.3.1,REL-008,5.3.1,ENV-005,Completed,2023-06-12 14:56:58,450,248,92,49,61,55.11,2024-08-11 17:55:32
+RUN-008,Regression Cycle 8 — Build 6.0.9,REL-001,6.0.9,ENV-002,Completed,2024-04-13 21:05:41,404,215,88,48,53,53.22,2024-03-24 19:53:30
+RUN-009,Regression Cycle 9 — Build 6.1.8,REL-002,6.1.8,ENV-006,In Progress,2024-02-12 08:18:16,407,231,67,38,71,56.76,2024-11-24 11:49:23
+RUN-010,Regression Cycle 10 — Build 6.2.3,REL-003,6.2.3,ENV-001,Aborted,2024-03-05 06:33:50,444,238,86,48,72,53.60,2024-09-02 19:44:45
+RUN-011,Regression Cycle 11 — Build 6.3.9,REL-004,6.3.9,ENV-004,Aborted,2023-11-21 02:03:09,454,262,75,42,75,57.71,2024-07-01 17:02:40
+RUN-012,Regression Cycle 12 — Build 7.0.4,REL-005,7.0.4,ENV-006,Completed,2023-03-03 00:23:08,439,251,84,37,67,57.18,2024-01-05 18:05:55

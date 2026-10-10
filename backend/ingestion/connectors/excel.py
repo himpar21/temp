@@ -1,0 +1,2 @@
+"""Excel ingestion connector."""
+

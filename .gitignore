@@ -1,0 +1,102 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# ============================================================
+# Virtual environments
+# ============================================================
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# ============================================================
+# Testing & coverage
+# ============================================================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.coveragerc
+
+# ============================================================
+# Build artifacts
+# ============================================================
+dist/
+build/
+*.egg-info/
+*.egg
+wheels/
+
+# ============================================================
+# IDE / editor
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============================================================
+# Node / Frontend
+# ============================================================
+node_modules/
+.npm/
+.pnpm-store/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+*.tsbuildinfo
+
+# ============================================================
+# Docker
+# ============================================================
+*.dockerignore
+
+# ============================================================
+# Logs & temp
+# ============================================================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+# ============================================================
+# Dataset — REDUNDANT / GENERATED FILES
+# (These are regenerated at ingestion time and not needed in git)
+# ============================================================
+
+# Graph data — rebuilt from structured/ CSVs at ingestion time
+datasets/synthetic_test_management/graph/
+
+
+
+# Python cache inside dataset folder
+datasets/synthetic_test_management/**/__pycache__/
+datasets/synthetic_test_management/**/*.pyc
+
+# ============================================================
+# Keep these (model uses them directly)
+# ============================================================
+# datasets/synthetic_test_management/structured/   → PostgreSQL ingestion
+# datasets/synthetic_test_management/unstructured/ → Vector DB chunking
+# datasets/synthetic_test_management/pdf_documents/→ Vector DB chunking
+# datasets/synthetic_test_management/input_fixtures/→ pipeline test inputs
+# datasets/synthetic_test_management/evaluation/   → pipeline scoring
+backend/database/vector/chroma_data/

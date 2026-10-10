@@ -1,0 +1,13 @@
+application_id,name,domain,version,status,owner_team,created_date,description
+APP-001,SmartHome,IoT,6.0.0,Active,Team-SMAR,2020-09-07,Enterprise application managing IoT services across connected devices.
+APP-002,MobileCommunication,Telecom,4.1.1,Active,Team-MOBI,2021-08-27,Enterprise application managing Telecom services across connected devices.
+APP-003,GalaxySearch,Search,5.0.0,Active,Team-GALA,2020-08-11,Enterprise application managing Search services across connected devices.
+APP-004,DigitalWallet,FinTech,4.4.9,Active,Team-DIGI,2021-07-28,Enterprise application managing FinTech services across connected devices.
+APP-005,WearableHealth,HealthTech,4.5.8,Deprecated,Team-WEAR,2020-08-13,Enterprise application managing HealthTech services across connected devices.
+APP-006,XRPlatform,XR,5.4.4,Active,Team-XRPL,2020-06-12,Enterprise application managing XR services across connected devices.
+APP-007,InternetBrowser,Web,6.3.5,Active,Team-INTE,2020-06-08,Enterprise application managing Web services across connected devices.
+APP-008,VoiceAssistant,AI,4.2.1,Active,Team-VOIC,2021-01-24,Enterprise application managing AI services across connected devices.
+APP-009,DeviceHub,IoT,4.2.5,Active,Team-DEVI,2020-02-14,Enterprise application managing IoT services across connected devices.
+APP-010,MediaPlatform,Media,6.3.8,Active,Team-MEDI,2021-01-22,Enterprise application managing Media services across connected devices.
+APP-011,ConnectedDevices,IoT,4.4.4,Active,Team-CONN,2021-08-14,Enterprise application managing IoT services across connected devices.
+APP-012,SecureAuthentication,Security,4.5.1,Active,Team-SECU,2021-11-08,Enterprise application managing Security services across connected devices.

@@ -1,0 +1,300 @@
+{"query_id": "SQ-001", "entity_ids": ["TC-0811", "TC-1742", "TC-0471", "FAIL-0825", "BUG-0203"]}
+{"query_id": "SQ-002", "entity_ids": ["TC-1321", "TC-1026", "TC-0106", "FAIL-0570", "BUG-0158"]}
+{"query_id": "SQ-003", "entity_ids": ["TC-1687", "TC-2030", "TC-1181", "FAIL-0818", "BUG-0013"]}
+{"query_id": "SQ-004", "entity_ids": ["TC-1094", "TC-0537", "TC-1180", "FAIL-0439", "BUG-0176"]}
+{"query_id": "SQ-005", "entity_ids": ["TC-0593", "TC-1572", "TC-0781", "FAIL-0540", "BUG-0404"]}
+{"query_id": "SQ-006", "entity_ids": ["TC-1866", "TC-1319", "TC-0773", "FAIL-1044", "BUG-0039"]}
+{"query_id": "SQ-007", "entity_ids": ["TC-0591", "TC-1680", "TC-0633", "FAIL-0319", "BUG-0227"]}
+{"query_id": "SQ-008", "entity_ids": ["TC-0412", "TC-1818", "TC-0682", "FAIL-1094", "BUG-0099"]}
+{"query_id": "SQ-009", "entity_ids": ["TC-0587", "TC-0952", "TC-1889", "FAIL-0571", "BUG-0211"]}
+{"query_id": "SQ-010", "entity_ids": ["TC-1212", "TC-1210", "TC-0090", "FAIL-0690", "BUG-0068"]}
+{"query_id": "SQ-011", "entity_ids": ["TC-0539", "TC-0370", "TC-1209", "FAIL-0506", "BUG-0368"]}
+{"query_id": "SQ-012", "entity_ids": ["TC-1499", "TC-0370", "TC-1617", "FAIL-0202", "BUG-0236"]}
+{"query_id": "SQ-013", "entity_ids": ["TC-0573", "TC-0186", "TC-0153", "FAIL-0393", "BUG-0462"]}
+{"query_id": "SQ-014", "entity_ids": ["TC-1817", "TC-1822", "TC-0968", "FAIL-0433", "BUG-0060"]}
+{"query_id": "SQ-015", "entity_ids": ["TC-0849", "TC-0885", "TC-0955", "FAIL-0461", "BUG-0134"]}
+{"query_id": "SQ-016", "entity_ids": ["TC-0466", "TC-0261", "TC-1951", "FAIL-0477", "BUG-0035"]}
+{"query_id": "SQ-017", "entity_ids": ["TC-0270", "TC-0517", "TC-1127", "FAIL-0452", "BUG-0471"]}
+{"query_id": "SQ-018", "entity_ids": ["TC-0626", "TC-1943", "TC-0275", "FAIL-1040", "BUG-0490"]}
+{"query_id": "SQ-019", "entity_ids": ["TC-0634", "TC-1976", "TC-0919", "FAIL-0314", "BUG-0261"]}
+{"query_id": "SQ-020", "entity_ids": ["TC-0126", "TC-0376", "TC-0882", "FAIL-0461", "BUG-0084"]}
+{"query_id": "SQ-021", "entity_ids": ["TC-2099", "TC-0467", "TC-1414", "FAIL-0677", "BUG-0176"]}
+{"query_id": "SQ-022", "entity_ids": ["TC-1558", "TC-0943", "TC-2050", "FAIL-0142", "BUG-0099"]}
+{"query_id": "SQ-023", "entity_ids": ["TC-0361", "TC-1789", "TC-0434", "FAIL-0143", "BUG-0350"]}
+{"query_id": "SQ-024", "entity_ids": ["TC-0600", "TC-1049", "TC-0809", "FAIL-0908", "BUG-0476"]}
+{"query_id": "SQ-025", "entity_ids": ["TC-0234", "TC-1511", "TC-1176", "FAIL-0452", "BUG-0179"]}
+{"query_id": "SQ-026", "entity_ids": ["TC-1794", "TC-1800", "TC-0651", "FAIL-0258", "BUG-0476"]}
+{"query_id": "SQ-027", "entity_ids": ["TC-1433", "TC-1271", "TC-1606", "FAIL-1044", "BUG-0471"]}
+{"query_id": "SQ-028", "entity_ids": ["TC-0415", "TC-2080", "TC-0155", "FAIL-0351", "BUG-0121"]}
+{"query_id": "SQ-029", "entity_ids": ["TC-1507", "TC-1805", "TC-1892", "FAIL-0412", "BUG-0344"]}
+{"query_id": "SQ-030", "entity_ids": ["TC-0910", "TC-1848", "TC-1432", "FAIL-0002", "BUG-0135"]}
+{"query_id": "SQ-031", "entity_ids": ["TC-1838", "TC-0022", "TC-0325", "FAIL-0510", "BUG-0121"]}
+{"query_id": "SQ-032", "entity_ids": ["TC-0589", "TC-1194", "TC-1759", "FAIL-0458", "BUG-0053"]}
+{"query_id": "SQ-033", "entity_ids": ["TC-0277", "TC-1413", "TC-0988", "FAIL-0959", "BUG-0235"]}
+{"query_id": "SQ-034", "entity_ids": ["TC-1940", "TC-1038", "TC-0150", "FAIL-0062", "BUG-0490"]}
+{"query_id": "SQ-035", "entity_ids": ["TC-1764", "TC-0740", "TC-1204", "FAIL-0822", "BUG-0437"]}
+{"query_id": "SQ-036", "entity_ids": ["TC-0656", "TC-0128", "TC-0585", "FAIL-0920", "BUG-0013"]}
+{"query_id": "SQ-037", "entity_ids": ["TC-1142", "TC-1023", "TC-0465", "FAIL-0434", "BUG-0271"]}
+{"query_id": "SQ-038", "entity_ids": ["TC-0266", "TC-1190", "TC-1229", "FAIL-0327", "BUG-0211"]}
+{"query_id": "SQ-039", "entity_ids": ["TC-1683", "TC-1678", "TC-0303", "FAIL-0506", "BUG-0069"]}
+{"query_id": "SQ-040", "entity_ids": ["TC-0805", "TC-1125", "TC-0513", "FAIL-0097", "BUG-0083"]}
+{"query_id": "SQ-041", "entity_ids": ["TC-1238", "TC-1979", "TC-1004", "FAIL-0142", "BUG-0425"]}
+{"query_id": "SQ-042", "entity_ids": ["TC-0435", "TC-1308", "TC-0991", "FAIL-0542", "BUG-0143"]}
+{"query_id": "SQ-043", "entity_ids": ["TC-2038", "TC-0095", "TC-0369", "FAIL-0142", "BUG-0135"]}
+{"query_id": "SQ-044", "entity_ids": ["TC-1499", "TC-0186", "TC-1641", "FAIL-0089", "BUG-0038"]}
+{"query_id": "SQ-045", "entity_ids": ["TC-1645", "TC-2049", "TC-0165", "FAIL-0986", "BUG-0207"]}
+{"query_id": "SQ-046", "entity_ids": ["TC-0069", "TC-1509", "TC-1357", "FAIL-0176", "BUG-0020"]}
+{"query_id": "SQ-047", "entity_ids": ["TC-0621", "TC-1692", "TC-0836", "FAIL-0207", "BUG-0159"]}
+{"query_id": "SQ-048", "entity_ids": ["TC-1223", "TC-0922", "TC-1220", "FAIL-1053", "BUG-0404"]}
+{"query_id": "SQ-049", "entity_ids": ["TC-1963", "TC-0877", "TC-0828", "FAIL-0097", "BUG-0176"]}
+{"query_id": "SQ-050", "entity_ids": ["TC-1949", "TC-1956", "TC-0817", "FAIL-0052", "BUG-0058"]}
+{"query_id": "SQ-051", "entity_ids": ["TC-1373", "TC-1166", "TC-1862", "FAIL-0564", "BUG-0260"]}
+{"query_id": "SQ-052", "entity_ids": ["TC-1344", "TC-0356", "TC-1642", "FAIL-0094", "BUG-0184"]}
+{"query_id": "SQ-053", "entity_ids": ["TC-0485", "TC-1907", "TC-1257", "FAIL-0883", "BUG-0335"]}
+{"query_id": "SQ-054", "entity_ids": ["TC-0336", "TC-1830", "TC-1482", "FAIL-0842", "BUG-0367"]}
+{"query_id": "SQ-055", "entity_ids": ["TC-0237", "TC-1894", "TC-1263", "FAIL-0542", "BUG-0135"]}
+{"query_id": "SQ-056", "entity_ids": ["TC-1534", "TC-1567", "TC-1838", "FAIL-0777", "BUG-0209"]}
+{"query_id": "SQ-057", "entity_ids": ["TC-1418", "TC-0636", "TC-1130", "FAIL-0412", "BUG-0284"]}
+{"query_id": "SQ-058", "entity_ids": ["TC-0574", "TC-2064", "TC-1185", "FAIL-0335", "BUG-0288"]}
+{"query_id": "SQ-059", "entity_ids": ["TC-1306", "TC-1706", "TC-1673", "FAIL-0448", "BUG-0361"]}
+{"query_id": "SQ-060", "entity_ids": ["TC-0781", "TC-0212", "TC-1100", "FAIL-0390", "BUG-0471"]}
+{"query_id": "SQ-061", "entity_ids": ["TC-1560", "TC-1910", "TC-1472", "FAIL-0602", "BUG-0344"]}
+{"query_id": "SQ-062", "entity_ids": ["TC-0625", "TC-0804", "TC-1352", "FAIL-0015", "BUG-0454"]}
+{"query_id": "SQ-063", "entity_ids": ["TC-1690", "TC-0564", "TC-0948", "FAIL-0865", "BUG-0258"]}
+{"query_id": "SQ-064", "entity_ids": ["TC-1764", "TC-0735", "TC-0439", "FAIL-0436", "BUG-0159"]}
+{"query_id": "SQ-065", "entity_ids": ["TC-1950", "TC-0230", "TC-0039", "FAIL-0866", "BUG-0512"]}
+{"query_id": "SQ-066", "entity_ids": ["TC-0065", "TC-0849", "TC-0591", "FAIL-0461", "BUG-0084"]}
+{"query_id": "SQ-067", "entity_ids": ["TC-1625", "TC-1337", "TC-0122", "FAIL-0187", "BUG-0187"]}
+{"query_id": "SQ-068", "entity_ids": ["TC-1596", "TC-1298", "TC-1478", "FAIL-0515", "BUG-0241"]}
+{"query_id": "SQ-069", "entity_ids": ["TC-0051", "TC-1196", "TC-1695", "FAIL-0866", "BUG-0022"]}
+{"query_id": "SQ-070", "entity_ids": ["TC-0801", "TC-1876", "TC-0439", "FAIL-0665", "BUG-0154"]}
+{"query_id": "SQ-071", "entity_ids": ["TC-2012", "TC-0993", "TC-1335", "FAIL-0467", "BUG-0069"]}
+{"query_id": "SQ-072", "entity_ids": ["TC-1734", "TC-1545", "TC-0303", "FAIL-0778", "BUG-0235"]}
+{"query_id": "SQ-073", "entity_ids": ["TC-0404", "TC-1060", "TC-0910", "FAIL-0833", "BUG-0497"]}
+{"query_id": "SQ-074", "entity_ids": ["TC-1951", "TC-0400", "TC-1795", "FAIL-0664", "BUG-0134"]}
+{"query_id": "SQ-075", "entity_ids": ["TC-0764", "TC-1771", "TC-1621", "FAIL-0040", "BUG-0203"]}
+{"query_id": "SQ-076", "entity_ids": ["TC-1284", "TC-1592", "TC-1608", "FAIL-0647", "BUG-0013"]}
+{"query_id": "SQ-077", "entity_ids": ["TC-0761", "TC-1994", "TC-0710", "FAIL-0469", "BUG-0121"]}
+{"query_id": "SQ-078", "entity_ids": ["TC-2002", "TC-0686", "TC-0339", "FAIL-0825", "BUG-0142"]}
+{"query_id": "SQ-079", "entity_ids": ["TC-1808", "TC-0896", "TC-1742", "FAIL-0765", "BUG-0169"]}
+{"query_id": "SQ-080", "entity_ids": ["TC-1437", "TC-1152", "TC-0690", "FAIL-0488", "BUG-0121"]}
+{"query_id": "SQ-081", "entity_ids": ["TC-1697", "TC-1537", "TC-1852", "FAIL-0176", "BUG-0207"]}
+{"query_id": "SQ-082", "entity_ids": ["TC-1162", "TC-1384", "TC-0535", "FAIL-1040", "BUG-0343"]}
+{"query_id": "SQ-083", "entity_ids": ["TC-0678", "TC-0213", "TC-1624", "FAIL-0883", "BUG-0335"]}
+{"query_id": "SQ-084", "entity_ids": ["TC-0938", "TC-1570", "TC-0366", "FAIL-0366", "BUG-0137"]}
+{"query_id": "SQ-085", "entity_ids": ["TC-0356", "TC-0412", "TC-0574", "FAIL-0007", "BUG-0409"]}
+{"query_id": "SQ-086", "entity_ids": ["TC-1605", "TC-1211", "TC-0224", "FAIL-0759", "BUG-0083"]}
+{"query_id": "SQ-087", "entity_ids": ["TC-0057", "TC-1074", "TC-0884", "FAIL-0005", "BUG-0245"]}
+{"query_id": "SQ-088", "entity_ids": ["TC-0271", "TC-1271", "TC-1792", "FAIL-0759", "BUG-0292"]}
+{"query_id": "SQ-089", "entity_ids": ["TC-1062", "TC-0684", "TC-1524", "FAIL-0741", "BUG-0002"]}
+{"query_id": "SQ-090", "entity_ids": ["TC-0422", "TC-0473", "TC-0936", "FAIL-0132", "BUG-0489"]}
+{"query_id": "SQ-091", "entity_ids": ["TC-2057", "TC-0216", "TC-0735", "FAIL-0549", "BUG-0258"]}
+{"query_id": "SQ-092", "entity_ids": ["TC-1005", "TC-0617", "TC-0027", "FAIL-0040", "BUG-0452"]}
+{"query_id": "SQ-093", "entity_ids": ["TC-1526", "TC-1878", "TC-0348", "FAIL-0192", "BUG-0203"]}
+{"query_id": "SQ-094", "entity_ids": ["TC-0447", "TC-0637", "TC-0433", "FAIL-0334", "BUG-0442"]}
+{"query_id": "SQ-095", "entity_ids": ["TC-1343", "TC-0608", "TC-0374", "FAIL-0919", "BUG-0082"]}
+{"query_id": "SQ-096", "entity_ids": ["TC-0812", "TC-1641", "TC-1525", "FAIL-0502", "BUG-0030"]}
+{"query_id": "SQ-097", "entity_ids": ["TC-1450", "TC-0880", "TC-0767", "FAIL-0179", "BUG-0284"]}
+{"query_id": "SQ-098", "entity_ids": ["TC-1471", "TC-1965", "TC-1986", "FAIL-0450", "BUG-0053"]}
+{"query_id": "SQ-099", "entity_ids": ["TC-1092", "TC-0230", "TC-0899", "FAIL-0601", "BUG-0492"]}
+{"query_id": "SQ-100", "entity_ids": ["TC-1958", "TC-0003", "TC-1359", "FAIL-0335", "BUG-0187"]}
+{"query_id": "GQ-001", "entity_ids": ["BUG-0427", "REQ-0383", "TC-0437", "FAIL-0185"]}
+{"query_id": "GQ-002", "entity_ids": ["BUG-0413", "REQ-0171", "TC-1903", "FAIL-0119"]}
+{"query_id": "GQ-003", "entity_ids": ["BUG-0212", "REQ-0299", "TC-0344", "FAIL-0523"]}
+{"query_id": "GQ-004", "entity_ids": ["BUG-0180", "REQ-0421", "TC-1357", "FAIL-0204"]}
+{"query_id": "GQ-005", "entity_ids": ["BUG-0187", "REQ-0062", "TC-1903", "FAIL-0804"]}
+{"query_id": "GQ-006", "entity_ids": ["BUG-0207", "REQ-0039", "TC-0498", "FAIL-0636"]}
+{"query_id": "GQ-007", "entity_ids": ["BUG-0182", "REQ-0223", "TC-1767", "FAIL-0461"]}
+{"query_id": "GQ-008", "entity_ids": ["BUG-0038", "REQ-0027", "TC-0696", "FAIL-0691"]}
+{"query_id": "GQ-009", "entity_ids": ["BUG-0103", "REQ-0168", "TC-1357", "FAIL-0107"]}
+{"query_id": "GQ-010", "entity_ids": ["BUG-0023", "REQ-0130", "TC-1062", "FAIL-0364"]}
+{"query_id": "GQ-011", "entity_ids": ["BUG-0413", "REQ-0171", "TC-0995", "FAIL-0119"]}
+{"query_id": "GQ-012", "entity_ids": ["BUG-0110", "REQ-0248", "TC-1088", "FAIL-0963"]}
+{"query_id": "GQ-013", "entity_ids": ["BUG-0419", "REQ-0201", "TC-0002", "FAIL-0028"]}
+{"query_id": "GQ-014", "entity_ids": ["BUG-0409", "REQ-0179", "TC-0848", "FAIL-0577"]}
+{"query_id": "GQ-015", "entity_ids": ["BUG-0127", "REQ-0206", "TC-0474", "FAIL-0155"]}
+{"query_id": "GQ-016", "entity_ids": ["BUG-0039", "REQ-0028", "TC-0470", "FAIL-0901"]}
+{"query_id": "GQ-017", "entity_ids": ["BUG-0505", "REQ-0410", "TC-2095", "FAIL-0353"]}
+{"query_id": "GQ-018", "entity_ids": ["BUG-0335", "REQ-0355", "TC-1357", "FAIL-0266"]}
+{"query_id": "GQ-019", "entity_ids": ["BUG-0505", "REQ-0410", "TC-0157", "FAIL-0353"]}
+{"query_id": "GQ-020", "entity_ids": ["BUG-0096", "REQ-0414", "TC-1742", "FAIL-0700"]}
+{"query_id": "GQ-021", "entity_ids": ["BUG-0426", "REQ-0145", "TC-1985", "FAIL-0450"]}
+{"query_id": "GQ-022", "entity_ids": ["BUG-0278", "REQ-0473", "TC-0299", "FAIL-0754"]}
+{"query_id": "GQ-023", "entity_ids": ["BUG-0030", "REQ-0350", "TC-0713", "FAIL-0806"]}
+{"query_id": "GQ-024", "entity_ids": ["BUG-0361", "REQ-0158", "TC-1786", "FAIL-0040"]}
+{"query_id": "GQ-025", "entity_ids": ["BUG-0340", "REQ-0227", "TC-1717", "FAIL-0182"]}
+{"query_id": "GQ-026", "entity_ids": ["BUG-0027", "REQ-0431", "TC-0023", "FAIL-0362"]}
+{"query_id": "GQ-027", "entity_ids": ["BUG-0083", "REQ-0315", "TC-0523", "FAIL-0036"]}
+{"query_id": "GQ-028", "entity_ids": ["BUG-0489", "REQ-0496", "TC-0348", "FAIL-0238"]}
+{"query_id": "GQ-029", "entity_ids": ["BUG-0108", "REQ-0398", "TC-2094", "FAIL-0131"]}
+{"query_id": "GQ-030", "entity_ids": ["BUG-0300", "REQ-0426", "TC-1767", "FAIL-0456"]}
+{"query_id": "GQ-031", "entity_ids": ["BUG-0380", "REQ-0496", "TC-1700", "FAIL-0944"]}
+{"query_id": "GQ-032", "entity_ids": ["BUG-0436", "REQ-0238", "TC-1113", "FAIL-0296"]}
+{"query_id": "GQ-033", "entity_ids": ["BUG-0042", "REQ-0083", "TC-0677", "FAIL-0690"]}
+{"query_id": "GQ-034", "entity_ids": ["BUG-0038", "REQ-0027", "TC-1136", "FAIL-0691"]}
+{"query_id": "GQ-035", "entity_ids": ["BUG-0318", "REQ-0328", "TC-0797", "FAIL-0554"]}
+{"query_id": "GQ-036", "entity_ids": ["BUG-0443", "REQ-0360", "TC-1416", "FAIL-0869"]}
+{"query_id": "GQ-037", "entity_ids": ["BUG-0027", "REQ-0431", "TC-1866", "FAIL-0362"]}
+{"query_id": "GQ-038", "entity_ids": ["BUG-0142", "REQ-0058", "TC-1940", "FAIL-0363"]}
+{"query_id": "GQ-039", "entity_ids": ["BUG-0176", "REQ-0429", "TC-0169", "FAIL-0144"]}
+{"query_id": "GQ-040", "entity_ids": ["BUG-0272", "REQ-0419", "TC-1810", "FAIL-0387"]}
+{"query_id": "GQ-041", "entity_ids": ["BUG-0161", "REQ-0353", "TC-1224", "FAIL-0904"]}
+{"query_id": "GQ-042", "entity_ids": ["BUG-0328", "REQ-0203", "TC-0904", "FAIL-0478"]}
+{"query_id": "GQ-043", "entity_ids": ["BUG-0154", "REQ-0501", "TC-1780", "FAIL-0015"]}
+{"query_id": "GQ-044", "entity_ids": ["BUG-0259", "REQ-0320", "TC-0025", "FAIL-0346"]}
+{"query_id": "GQ-045", "entity_ids": ["BUG-0142", "REQ-0058", "TC-0556", "FAIL-0363"]}
+{"query_id": "GQ-046", "entity_ids": ["BUG-0361", "REQ-0158", "TC-0002", "FAIL-0040"]}
+{"query_id": "GQ-047", "entity_ids": ["BUG-0457", "REQ-0304", "TC-2095", "FAIL-0055"]}
+{"query_id": "GQ-048", "entity_ids": ["BUG-0123", "REQ-0307", "TC-0817", "FAIL-0278"]}
+{"query_id": "GQ-049", "entity_ids": ["BUG-0328", "REQ-0203", "TC-1236", "FAIL-0478"]}
+{"query_id": "GQ-050", "entity_ids": ["BUG-0158", "REQ-0395", "TC-0473", "FAIL-0129"]}
+{"query_id": "GQ-051", "entity_ids": ["BUG-0209", "REQ-0422", "TC-0797", "FAIL-0763"]}
+{"query_id": "GQ-052", "entity_ids": ["BUG-0251", "REQ-0387", "TC-0437", "FAIL-0315"]}
+{"query_id": "GQ-053", "entity_ids": ["BUG-0293", "REQ-0520", "TC-1441", "FAIL-0248"]}
+{"query_id": "GQ-054", "entity_ids": ["BUG-0260", "REQ-0122", "TC-0625", "FAIL-0538"]}
+{"query_id": "GQ-055", "entity_ids": ["BUG-0146", "REQ-0436", "TC-0797", "FAIL-0118"]}
+{"query_id": "GQ-056", "entity_ids": ["BUG-0083", "REQ-0315", "TC-0418", "FAIL-0036"]}
+{"query_id": "GQ-057", "entity_ids": ["BUG-0211", "REQ-0012", "TC-0786", "FAIL-0609"]}
+{"query_id": "GQ-058", "entity_ids": ["BUG-0080", "REQ-0360", "TC-0318", "FAIL-0742"]}
+{"query_id": "GQ-059", "entity_ids": ["BUG-0299", "REQ-0062", "TC-1904", "FAIL-0030"]}
+{"query_id": "GQ-060", "entity_ids": ["BUG-0013", "REQ-0084", "TC-1748", "FAIL-0843"]}
+{"query_id": "GQ-061", "entity_ids": ["BUG-0505", "REQ-0410", "TC-1909", "FAIL-0353"]}
+{"query_id": "GQ-062", "entity_ids": ["BUG-0225", "REQ-0325", "TC-0214", "FAIL-0340"]}
+{"query_id": "GQ-063", "entity_ids": ["BUG-0080", "REQ-0360", "TC-0498", "FAIL-0742"]}
+{"query_id": "GQ-064", "entity_ids": ["BUG-0129", "REQ-0451", "TC-0474", "FAIL-0545"]}
+{"query_id": "GQ-065", "entity_ids": ["BUG-0290", "REQ-0397", "TC-1954", "FAIL-0166"]}
+{"query_id": "GQ-066", "entity_ids": ["BUG-0383", "REQ-0266", "TC-0713", "FAIL-0650"]}
+{"query_id": "GQ-067", "entity_ids": ["BUG-0207", "REQ-0039", "TC-0721", "FAIL-0636"]}
+{"query_id": "GQ-068", "entity_ids": ["BUG-0053", "REQ-0161", "TC-1761", "FAIL-0202"]}
+{"query_id": "GQ-069", "entity_ids": ["BUG-0105", "REQ-0359", "TC-0995", "FAIL-0783"]}
+{"query_id": "GQ-070", "entity_ids": ["BUG-0346", "REQ-0127", "TC-0867", "FAIL-0613"]}
+{"query_id": "GQ-071", "entity_ids": ["BUG-0457", "REQ-0304", "TC-0114", "FAIL-0055"]}
+{"query_id": "GQ-072", "entity_ids": ["BUG-0169", "REQ-0378", "TC-2000", "FAIL-0626"]}
+{"query_id": "GQ-073", "entity_ids": ["BUG-0154", "REQ-0501", "TC-0383", "FAIL-0015"]}
+{"query_id": "GQ-074", "entity_ids": ["BUG-0171", "REQ-0430", "TC-0344", "FAIL-0868"]}
+{"query_id": "GQ-075", "entity_ids": ["BUG-0325", "REQ-0007", "TC-1275", "FAIL-0504"]}
+{"query_id": "GQ-076", "entity_ids": ["BUG-0442", "REQ-0275", "TC-1904", "FAIL-0479"]}
+{"query_id": "GQ-077", "entity_ids": ["BUG-0159", "REQ-0353", "TC-0963", "FAIL-0249"]}
+{"query_id": "GQ-078", "entity_ids": ["BUG-0221", "REQ-0341", "TC-0025", "FAIL-0212"]}
+{"query_id": "GQ-079", "entity_ids": ["BUG-0469", "REQ-0399", "TC-0496", "FAIL-0239"]}
+{"query_id": "GQ-080", "entity_ids": ["BUG-0042", "REQ-0083", "TC-0214", "FAIL-0690"]}
+{"query_id": "GQ-081", "entity_ids": ["BUG-0284", "REQ-0231", "TC-1337", "FAIL-0284"]}
+{"query_id": "GQ-082", "entity_ids": ["BUG-0520", "REQ-0188", "TC-1140", "FAIL-0033"]}
+{"query_id": "GQ-083", "entity_ids": ["BUG-0482", "REQ-0182", "TC-1339", "FAIL-0154"]}
+{"query_id": "GQ-084", "entity_ids": ["BUG-0103", "REQ-0168", "TC-1863", "FAIL-0107"]}
+{"query_id": "GQ-085", "entity_ids": ["BUG-0477", "REQ-0409", "TC-2094", "FAIL-0352"]}
+{"query_id": "GQ-086", "entity_ids": ["BUG-0055", "REQ-0006", "TC-0605", "FAIL-0917"]}
+{"query_id": "GQ-087", "entity_ids": ["BUG-0404", "REQ-0141", "TC-0498", "FAIL-0900"]}
+{"query_id": "GQ-088", "entity_ids": ["BUG-0013", "REQ-0084", "TC-0081", "FAIL-0843"]}
+{"query_id": "GQ-089", "entity_ids": ["BUG-0236", "REQ-0045", "TC-1286", "FAIL-0443"]}
+{"query_id": "GQ-090", "entity_ids": ["BUG-0259", "REQ-0320", "TC-2095", "FAIL-0346"]}
+{"query_id": "GQ-091", "entity_ids": ["BUG-0490", "REQ-0491", "TC-0331", "FAIL-0208"]}
+{"query_id": "GQ-092", "entity_ids": ["BUG-0091", "REQ-0327", "TC-1927", "FAIL-0755"]}
+{"query_id": "GQ-093", "entity_ids": ["BUG-0157", "REQ-0098", "TC-0287", "FAIL-0446"]}
+{"query_id": "GQ-094", "entity_ids": ["BUG-0325", "REQ-0007", "TC-1698", "FAIL-0504"]}
+{"query_id": "GQ-095", "entity_ids": ["BUG-0436", "REQ-0238", "TC-1212", "FAIL-0296"]}
+{"query_id": "GQ-096", "entity_ids": ["BUG-0066", "REQ-0432", "TC-0848", "FAIL-0039"]}
+{"query_id": "GQ-097", "entity_ids": ["BUG-0328", "REQ-0203", "TC-1748", "FAIL-0478"]}
+{"query_id": "GQ-098", "entity_ids": ["BUG-0436", "REQ-0238", "TC-0961", "FAIL-0296"]}
+{"query_id": "GQ-099", "entity_ids": ["BUG-0499", "REQ-0207", "TC-0893", "FAIL-0676"]}
+{"query_id": "GQ-100", "entity_ids": ["BUG-0123", "REQ-0307", "TC-0165", "FAIL-0278"]}
+{"query_id": "HQ-001", "entity_ids": ["TC-1275", "FAIL-0755", "BUG-0091", "REQ-0327"]}
+{"query_id": "HQ-002", "entity_ids": ["TC-0336", "FAIL-0005", "BUG-0434", "REQ-0381"]}
+{"query_id": "HQ-003", "entity_ids": ["TC-0816", "FAIL-0867", "BUG-0190", "REQ-0217"]}
+{"query_id": "HQ-004", "entity_ids": ["TC-0921", "FAIL-0246", "BUG-0512", "REQ-0356"]}
+{"query_id": "HQ-005", "entity_ids": ["TC-0721", "FAIL-0920", "BUG-0467", "REQ-0399"]}
+{"query_id": "HQ-006", "entity_ids": ["TC-1416", "FAIL-0294", "BUG-0381", "REQ-0141"]}
+{"query_id": "HQ-007", "entity_ids": ["TC-1657", "FAIL-0573", "BUG-0327", "REQ-0419"]}
+{"query_id": "HQ-008", "entity_ids": ["TC-0264", "FAIL-0278", "BUG-0123", "REQ-0307"]}
+{"query_id": "HQ-009", "entity_ids": ["TC-0877", "FAIL-0371", "BUG-0114", "REQ-0102"]}
+{"query_id": "HQ-010", "entity_ids": ["TC-1000", "FAIL-0461", "BUG-0182", "REQ-0223"]}
+{"query_id": "HQ-011", "entity_ids": ["TC-0786", "FAIL-0364", "BUG-0023", "REQ-0130"]}
+{"query_id": "HQ-012", "entity_ids": ["TC-1673", "FAIL-0030", "BUG-0299", "REQ-0062"]}
+{"query_id": "HQ-013", "entity_ids": ["TC-1727", "FAIL-0754", "BUG-0278", "REQ-0473"]}
+{"query_id": "HQ-014", "entity_ids": ["TC-0114", "FAIL-0187", "BUG-0002", "REQ-0198"]}
+{"query_id": "HQ-015", "entity_ids": ["TC-1423", "FAIL-0573", "BUG-0327", "REQ-0419"]}
+{"query_id": "HQ-016", "entity_ids": ["TC-1892", "FAIL-0452", "BUG-0084", "REQ-0146"]}
+{"query_id": "HQ-017", "entity_ids": ["TC-1125", "FAIL-0894", "BUG-0319", "REQ-0162"]}
+{"query_id": "HQ-018", "entity_ids": ["TC-0119", "FAIL-0269", "BUG-0056", "REQ-0504"]}
+{"query_id": "HQ-019", "entity_ids": ["TC-1511", "FAIL-0672", "BUG-0128", "REQ-0057"]}
+{"query_id": "HQ-020", "entity_ids": ["TC-1786", "FAIL-0868", "BUG-0171", "REQ-0430"]}
+{"query_id": "HQ-021", "entity_ids": ["TC-0523", "FAIL-0458", "BUG-0076", "REQ-0191"]}
+{"query_id": "HQ-022", "entity_ids": ["TC-1717", "FAIL-0676", "BUG-0499", "REQ-0207"]}
+{"query_id": "HQ-023", "entity_ids": ["TC-1866", "FAIL-0761", "BUG-0162", "REQ-0140"]}
+{"query_id": "HQ-024", "entity_ids": ["TC-0605", "FAIL-0103", "BUG-0432", "REQ-0334"]}
+{"query_id": "HQ-025", "entity_ids": ["TC-0128", "FAIL-0577", "BUG-0409", "REQ-0179"]}
+{"query_id": "HQ-026", "entity_ids": ["TC-1940", "FAIL-0573", "BUG-0327", "REQ-0419"]}
+{"query_id": "HQ-027", "entity_ids": ["TC-0721", "FAIL-0033", "BUG-0520", "REQ-0188"]}
+{"query_id": "HQ-028", "entity_ids": ["TC-1727", "FAIL-0278", "BUG-0123", "REQ-0307"]}
+{"query_id": "HQ-029", "entity_ids": ["TC-0671", "FAIL-0976", "BUG-0494", "REQ-0446"]}
+{"query_id": "HQ-030", "entity_ids": ["TC-1224", "FAIL-0764", "BUG-0117", "REQ-0108"]}
+{"query_id": "HQ-031", "entity_ids": ["TC-0002", "FAIL-0613", "BUG-0346", "REQ-0127"]}
+{"query_id": "HQ-032", "entity_ids": ["TC-1233", "FAIL-0934", "BUG-0377", "REQ-0513"]}
+{"query_id": "HQ-033", "entity_ids": ["TC-0523", "FAIL-0363", "BUG-0142", "REQ-0058"]}
+{"query_id": "HQ-034", "entity_ids": ["TC-1717", "FAIL-0054", "BUG-0337", "REQ-0031"]}
+{"query_id": "HQ-035", "entity_ids": ["TC-1813", "FAIL-0125", "BUG-0081", "REQ-0070"]}
+{"query_id": "HQ-036", "entity_ids": ["TC-0813", "FAIL-0312", "BUG-0367", "REQ-0013"]}
+{"query_id": "HQ-037", "entity_ids": ["TC-0816", "FAIL-0920", "BUG-0467", "REQ-0399"]}
+{"query_id": "HQ-038", "entity_ids": ["TC-1267", "FAIL-0284", "BUG-0284", "REQ-0231"]}
+{"query_id": "HQ-039", "entity_ids": ["TC-1441", "FAIL-0181", "BUG-0135", "REQ-0327"]}
+{"query_id": "HQ-040", "entity_ids": ["TC-1245", "FAIL-0353", "BUG-0505", "REQ-0410"]}
+{"query_id": "HQ-041", "entity_ids": ["TC-1310", "FAIL-0033", "BUG-0520", "REQ-0188"]}
+{"query_id": "HQ-042", "entity_ids": ["TC-0625", "FAIL-0463", "BUG-0099", "REQ-0218"]}
+{"query_id": "HQ-043", "entity_ids": ["TC-0474", "FAIL-0959", "BUG-0245", "REQ-0480"]}
+{"query_id": "HQ-044", "entity_ids": ["TC-1985", "FAIL-0917", "BUG-0055", "REQ-0006"]}
+{"query_id": "HQ-045", "entity_ids": ["TC-1673", "FAIL-0971", "BUG-0092", "REQ-0156"]}
+{"query_id": "HQ-046", "entity_ids": ["TC-1787", "FAIL-0269", "BUG-0056", "REQ-0504"]}
+{"query_id": "HQ-047", "entity_ids": ["TC-0418", "FAIL-0531", "BUG-0052", "REQ-0001"]}
+{"query_id": "HQ-048", "entity_ids": ["TC-1373", "FAIL-0831", "BUG-0362", "REQ-0415"]}
+{"query_id": "HQ-049", "entity_ids": ["TC-0817", "FAIL-0538", "BUG-0260", "REQ-0122"]}
+{"query_id": "HQ-050", "entity_ids": ["TC-1285", "FAIL-0684", "BUG-0305", "REQ-0375"]}
+{"query_id": "HQ-051", "entity_ids": ["TC-0696", "FAIL-0487", "BUG-0460", "REQ-0223"]}
+{"query_id": "HQ-052", "entity_ids": ["TC-1905", "FAIL-0240", "BUG-0511", "REQ-0478"]}
+{"query_id": "HQ-053", "entity_ids": ["TC-0119", "FAIL-0910", "BUG-0205", "REQ-0125"]}
+{"query_id": "HQ-054", "entity_ids": ["TC-1286", "FAIL-0922", "BUG-0235", "REQ-0130"]}
+{"query_id": "HQ-055", "entity_ids": ["TC-0214", "FAIL-0843", "BUG-0013", "REQ-0084"]}
+{"query_id": "HQ-056", "entity_ids": ["TC-0877", "FAIL-0170", "BUG-0217", "REQ-0258"]}
+{"query_id": "HQ-057", "entity_ids": ["TC-0331", "FAIL-0208", "BUG-0490", "REQ-0491"]}
+{"query_id": "HQ-058", "entity_ids": ["TC-1827", "FAIL-0894", "BUG-0319", "REQ-0162"]}
+{"query_id": "HQ-059", "entity_ids": ["TC-0169", "FAIL-0274", "BUG-0414", "REQ-0340"]}
+{"query_id": "HQ-060", "entity_ids": ["TC-0786", "FAIL-0696", "BUG-0289", "REQ-0518"]}
+{"query_id": "HQ-061", "entity_ids": ["TC-0025", "FAIL-0249", "BUG-0159", "REQ-0353"]}
+{"query_id": "HQ-062", "entity_ids": ["TC-1593", "FAIL-0302", "BUG-0297", "REQ-0412"]}
+{"query_id": "HQ-063", "entity_ids": ["TC-0496", "FAIL-0278", "BUG-0123", "REQ-0307"]}
+{"query_id": "HQ-064", "entity_ids": ["TC-0652", "FAIL-0549", "BUG-0069", "REQ-0239"]}
+{"query_id": "HQ-065", "entity_ids": ["TC-1224", "FAIL-0626", "BUG-0169", "REQ-0378"]}
+{"query_id": "HQ-066", "entity_ids": ["TC-0443", "FAIL-0764", "BUG-0117", "REQ-0108"]}
+{"query_id": "HQ-067", "entity_ids": ["TC-1945", "FAIL-0691", "BUG-0038", "REQ-0027"]}
+{"query_id": "HQ-068", "entity_ids": ["TC-0264", "FAIL-0545", "BUG-0129", "REQ-0451"]}
+{"query_id": "HQ-069", "entity_ids": ["TC-0299", "FAIL-0559", "BUG-0115", "REQ-0309"]}
+{"query_id": "HQ-070", "entity_ids": ["TC-0344", "FAIL-0196", "BUG-0271", "REQ-0172"]}
+{"query_id": "HQ-071", "entity_ids": ["TC-1300", "FAIL-0611", "BUG-0314", "REQ-0483"]}
+{"query_id": "HQ-072", "entity_ids": ["TC-0963", "FAIL-0238", "BUG-0489", "REQ-0496"]}
+{"query_id": "HQ-073", "entity_ids": ["TC-1827", "FAIL-0155", "BUG-0127", "REQ-0206"]}
+{"query_id": "HQ-074", "entity_ids": ["TC-1267", "FAIL-0107", "BUG-0103", "REQ-0168"]}
+{"query_id": "HQ-075", "entity_ids": ["TC-0961", "FAIL-0113", "BUG-0476", "REQ-0208"]}
+{"query_id": "HQ-076", "entity_ids": ["TC-1140", "FAIL-0479", "BUG-0442", "REQ-0275"]}
+{"query_id": "HQ-077", "entity_ids": ["TC-1598", "FAIL-0293", "BUG-0215", "REQ-0497"]}
+{"query_id": "HQ-078", "entity_ids": ["TC-1163", "FAIL-0713", "BUG-0437", "REQ-0320"]}
+{"query_id": "HQ-079", "entity_ids": ["TC-1723", "FAIL-0129", "BUG-0158", "REQ-0395"]}
+{"query_id": "HQ-080", "entity_ids": ["TC-0625", "FAIL-0443", "BUG-0236", "REQ-0045"]}
+{"query_id": "HQ-081", "entity_ids": ["TC-1212", "FAIL-0055", "BUG-0457", "REQ-0304"]}
+{"query_id": "HQ-082", "entity_ids": ["TC-1066", "FAIL-0224", "BUG-0456", "REQ-0140"]}
+{"query_id": "HQ-083", "entity_ids": ["TC-0848", "FAIL-0125", "BUG-0081", "REQ-0070"]}
+{"query_id": "HQ-084", "entity_ids": ["TC-1376", "FAIL-0944", "BUG-0380", "REQ-0496"]}
+{"query_id": "HQ-085", "entity_ids": ["TC-1013", "FAIL-0127", "BUG-0326", "REQ-0367"]}
+{"query_id": "HQ-086", "entity_ids": ["TC-1003", "FAIL-0479", "BUG-0442", "REQ-0275"]}
+{"query_id": "HQ-087", "entity_ids": ["TC-1810", "FAIL-0239", "BUG-0469", "REQ-0399"]}
+{"query_id": "HQ-088", "entity_ids": ["TC-0114", "FAIL-0944", "BUG-0380", "REQ-0496"]}
+{"query_id": "HQ-089", "entity_ids": ["TC-1233", "FAIL-0690", "BUG-0042", "REQ-0083"]}
+{"query_id": "HQ-090", "entity_ids": ["TC-0652", "FAIL-0913", "BUG-0280", "REQ-0480"]}
+{"query_id": "HQ-091", "entity_ids": ["TC-1945", "FAIL-0493", "BUG-0493", "REQ-0064"]}
+{"query_id": "HQ-092", "entity_ids": ["TC-0893", "FAIL-0976", "BUG-0494", "REQ-0446"]}
+{"query_id": "HQ-093", "entity_ids": ["TC-0469", "FAIL-0920", "BUG-0467", "REQ-0399"]}
+{"query_id": "HQ-094", "entity_ids": ["TC-1985", "FAIL-0240", "BUG-0511", "REQ-0478"]}
+{"query_id": "HQ-095", "entity_ids": ["TC-1044", "FAIL-0387", "BUG-0272", "REQ-0419"]}
+{"query_id": "HQ-096", "entity_ids": ["TC-0867", "FAIL-0869", "BUG-0443", "REQ-0360"]}
+{"query_id": "HQ-097", "entity_ids": ["TC-0081", "FAIL-0921", "BUG-0287", "REQ-0018"]}
+{"query_id": "HQ-098", "entity_ids": ["TC-1892", "FAIL-0021", "BUG-0060", "REQ-0158"]}
+{"query_id": "HQ-099", "entity_ids": ["TC-0816", "FAIL-0266", "BUG-0335", "REQ-0355"]}
+{"query_id": "HQ-100", "entity_ids": ["TC-1125", "FAIL-0843", "BUG-0013", "REQ-0084"]}

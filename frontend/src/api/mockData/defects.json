@@ -1,0 +1,194 @@
+[
+  {
+    "id": "DEF-0001",
+    "testCaseId": "TC-0006",
+    "severity": "Critical",
+    "status": "Resolved",
+    "description": "SmartThings > Device Pairing fails with pairing_timeout_error during \"User can pair a new device over Bluetooth — variation 6\"",
+    "createdAt": "2026-09-06T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0002",
+    "testCaseId": "TC-0010",
+    "severity": "High",
+    "status": "Open",
+    "description": "SmartThings > Device Pairing fails with ble_handshake_failed during \"User can pair a new device over Bluetooth — variation 10\"",
+    "createdAt": "2026-08-30T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0003",
+    "testCaseId": "TC-0014",
+    "severity": "High",
+    "status": "Resolved",
+    "description": "SmartThings > Device Pairing fails with auth_token_expired_during_pairing during \"User can pair a new device over Bluetooth — variation 14\"",
+    "createdAt": "2026-08-30T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0004",
+    "testCaseId": "TC-0016",
+    "severity": "High",
+    "status": "Resolved",
+    "description": "SmartThings > Device Pairing fails with device_not_discovered during \"User can pair a new device over Bluetooth — variation 16\"",
+    "createdAt": "2026-08-26T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0005",
+    "testCaseId": "TC-0070",
+    "severity": "High",
+    "status": "In Progress",
+    "description": "Bixby > Routines fails with assertion_mismatch during \"User can add a payment card manually — variation 3\"",
+    "createdAt": "2026-08-08T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0006",
+    "testCaseId": "TC-0073",
+    "severity": "Low",
+    "status": "Resolved",
+    "description": "Bixby > Routines fails with network_request_timeout during \"User can add a payment card manually — variation 6\"",
+    "createdAt": "2026-09-02T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0007",
+    "testCaseId": "TC-0076",
+    "severity": "Medium",
+    "status": "Open",
+    "description": "Bixby > Routines fails with config_value_missing during \"User can add a payment card manually — variation 9\"",
+    "createdAt": "2026-08-30T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0008",
+    "testCaseId": "TC-0084",
+    "severity": "High",
+    "status": "In Progress",
+    "description": "Samsung Internet > Bookmarks fails with assertion_mismatch during \"Wallet transaction history loads within 1 second — variation 5\"",
+    "createdAt": "2026-09-06T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0009",
+    "testCaseId": "TC-0087",
+    "severity": "Low",
+    "status": "Open",
+    "description": "Samsung Internet > Bookmarks fails with unexpected_state_transition during \"Wallet transaction history loads within 1 second — variation 8\"",
+    "createdAt": "2026-08-09T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0010",
+    "testCaseId": "TC-0114",
+    "severity": "High",
+    "status": "Open",
+    "description": "Wallet > Payments fails with assertion_mismatch during \"Galaxy Search returns results across device and cloud content — variation 7\"",
+    "createdAt": "2026-08-17T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0011",
+    "testCaseId": "TC-0119",
+    "severity": "Low",
+    "status": "In Progress",
+    "description": "Wallet > Payments fails with unexpected_state_transition during \"Galaxy Search returns results across device and cloud content — variation 12\"",
+    "createdAt": "2026-09-18T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0012",
+    "testCaseId": "TC-0124",
+    "severity": "Low",
+    "status": "Resolved",
+    "description": "Samsung Internet > Bookmarks fails with assertion_mismatch during \"Helix syncs settings across signed-in devices — variation 3\"",
+    "createdAt": "2026-08-22T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0013",
+    "testCaseId": "TC-0134",
+    "severity": "Medium",
+    "status": "Open",
+    "description": "Samsung Internet > Bookmarks fails with config_value_missing during \"Helix syncs settings across signed-in devices — variation 13\"",
+    "createdAt": "2026-09-10T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0014",
+    "testCaseId": "TC-0150",
+    "severity": "Critical",
+    "status": "Open",
+    "description": "Helix > Sync fails with config_value_missing during \"Samsung Internet bookmark folder can be renamed — variation 3\"",
+    "createdAt": "2026-08-14T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0015",
+    "testCaseId": "TC-0161",
+    "severity": "Medium",
+    "status": "Open",
+    "description": "SmartThings > Device Pairing fails with pairing_timeout_error during \"Living Labs feedback form submits without data loss — variation 2\"",
+    "createdAt": "2026-09-15T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0016",
+    "testCaseId": "TC-0162",
+    "severity": "Medium",
+    "status": "In Progress",
+    "description": "SmartThings > Device Pairing fails with auth_token_expired_during_pairing during \"Living Labs feedback form submits without data loss — variation 3\"",
+    "createdAt": "2026-08-17T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0017",
+    "testCaseId": "TC-0163",
+    "severity": "Medium",
+    "status": "In Progress",
+    "description": "SmartThings > Device Pairing fails with ble_handshake_failed during \"Living Labs feedback form submits without data loss — variation 4\"",
+    "createdAt": "2026-09-19T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0018",
+    "testCaseId": "TC-0167",
+    "severity": "High",
+    "status": "Resolved",
+    "description": "SmartThings > Device Pairing fails with auth_token_expired_during_pairing during \"Living Labs feedback form submits without data loss — variation 8\"",
+    "createdAt": "2026-08-09T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0019",
+    "testCaseId": "TC-0198",
+    "severity": "High",
+    "status": "Open",
+    "description": "Wallet > Payments fails with assertion_mismatch during \"SmartThings device removal cleans up related automations — variation 7\"",
+    "createdAt": "2026-08-23T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0020",
+    "testCaseId": "TC-0203",
+    "severity": "Critical",
+    "status": "In Progress",
+    "description": "Wallet > Payments fails with ui_render_null_ref during \"SmartThings device removal cleans up related automations — variation 12\"",
+    "createdAt": "2026-08-19T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0021",
+    "testCaseId": "TC-0219",
+    "severity": "Low",
+    "status": "Open",
+    "description": "Samsung Internet > Bookmarks fails with config_value_missing during \"Galaxy Search respects content permission scopes — variation 2\"",
+    "createdAt": "2026-09-15T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0022",
+    "testCaseId": "TC-0237",
+    "severity": "Critical",
+    "status": "In Progress",
+    "description": "Bixby > Routines fails with assertion_mismatch during \"Helix sync backs off correctly under rate limiting — variation 9\"",
+    "createdAt": "2026-08-13T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0023",
+    "testCaseId": "TC-0244",
+    "severity": "Critical",
+    "status": "In Progress",
+    "description": "SmartThings > Automations fails with network_request_timeout during \"Samsung Internet import from external browser succeeds — variation 1\"",
+    "createdAt": "2026-08-31T08:42:11.902Z"
+  },
+  {
+    "id": "DEF-0024",
+    "testCaseId": "TC-0248",
+    "severity": "Critical",
+    "status": "Open",
+    "description": "SmartThings > Automations fails with config_value_missing during \"Samsung Internet import from external browser succeeds — variation 5\"",
+    "createdAt": "2026-09-11T08:42:11.902Z"
+  }
+]
